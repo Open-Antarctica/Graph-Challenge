@@ -17,8 +17,6 @@ CREATE
 ( w_artists_and_writers:Science { name: 'Artists and Writers' }),
 (T_technical_event:Science { name: 'Technical Event' })
 
-(ainley_david)-[:WORKS_ON]->(B031M)->[:OCCURS_IN]->(2011_2012:Field_Season {years: '2011-2012'}), 
-
 //Field Seasons
 CREATE
 (2012_2013:Field_Season {years: '2012-2013'}),
