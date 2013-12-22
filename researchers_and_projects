@@ -221,5 +221,3 @@ CREATE
 (wilson_terry)-[:WORKS_ON]->(G079M),
 (wu_qian)-[:WORKS_ON]->(A132P),
 (zesta_eftyhia)-[:WORKS_ON]->(A357M);
-
-MATCH (n:Researcher)-[:WORKS_ON]->(m:Event) where m.event_number = "O-283-M_S" RETURN n,m
