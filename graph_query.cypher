@@ -286,7 +286,7 @@ CREATE
 //Which Researchers Did Which Projects
 CREATE
 (ainley_david)-[:WORKS_ON]->(B031M)-[:OCCURS_IN]->(2011_2012),
-(anandakrishnan_sridhar)-[:WORKS_ON]-[:OCCURS_IN]->(2011_2012)>(C520M),
+(anandakrishnan_sridhar)-[:WORKS_ON]->(C520M)[:OCCURS_IN]->(2011_2012),
 (ashworth_allan)-[:WORKS_ON]->(G294M)-[:OCCURS_IN]->(2011_2012),
 (barrett_john)-[:WORKS_ON]->(B508M)-[:OCCURS_IN]->(2011_2012),
 (barwick_steven)-[:WORKS_ON]->(A127M)-[:OCCURS_IN]->(2011_2012),
