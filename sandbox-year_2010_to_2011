@@ -134,5 +134,5 @@
 (W224M:Event { event_number: 'W-224-M', project_title: 'Condition One: A film about extremes and the human spirit' }),
 (W485P:Event { event_number: 'W-485-P', project_title: 'Natural Curiosities: Poems of exploration, Antarctica' }),
 (Y609P:Event { event_number: 'Y-609-P', project_title: 'IPY: Improving the public’s understanding of polar research through hands-on fellowships for science journalists in the Arctic and Antarctic' }),
-({239P:Event ( event_number: 'B-239-P', project_title: 'Viral contributions to spring bloom dynamics in the Western Antarctic Peninsula' }),
-({302M:Event ( event_number: 'B-302-M', project_title: 'IceBite: An auger and sampling systems for ground ice on Mars' }),
+(239P:Event ( event_number: 'B-239-P', project_title: 'Viral contributions to spring bloom dynamics in the Western Antarctic Peninsula' }),
+(302M:Event ( event_number: 'B-302-M', project_title: 'IceBite: An auger and sampling systems for ground ice on Mars' }),
