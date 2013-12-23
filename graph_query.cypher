@@ -105,11 +105,7 @@ CREATE
 ( fraser_bill:Researcher { name: 'Fraser, Bill' }),
 ( fritts_david:Researcher { name: 'Fritts, David' }),
 ( garrott_robert:Researcher { name: 'Garrott, Robert' }),
-<<<<<<< HEAD
 ( gill_john:Researcher {name: 'Gill, John'}),
-=======
-( gill_john:Researcher {name: 'Gill, John' })
->>>>>>> c4b959837800deda2d167859b94927a63b5056bd
 ( gogineni_prasad:Researcher { name: 'Gogineni, Prasad' }),
 ( goodge_john:Researcher { name: 'Goodge, John' }),
 ( hall_brenda:Researcher { name: 'Hall, Brenda' }),
@@ -294,144 +290,23 @@ CREATE
 (B508M)-[:IS]->( b_organisms_and_ecosystems),
 (B509M)-[:IS]->( b_organisms_and_ecosystems),
 (B518M)-[:IS]->( b_organisms_and_ecosystems),
-=======
-//Astrophysics and Geospace Sciences
-(A039S)-[:IS]->(a_astrophysics_and_geospace),
-(A039S:Event { event_number: 'A-039-S', project_title: 'Collaborative Research: BICEP2 and SPUD - A search for inflation with degree-scale polarimetry from the South Pole' })-[:AT]->(south_pole_station),
-(A102M_S)-[:AT]->(south_pole_station),
-(A102M_S)-[:IS]->(a_astrophysics_and_geospace),
-(A102M_S:Event { event_number: 'A-102-M_S', project_title: 'Studies of solar wind - Magnetosphere interactions using observations of ULF waves at an extensive ground array at high latitudes' })-[:AT]->(mcmurdo_station),
-(A103S)-[:IS]->(a_astrophysics_and_geospace),
-(A103S:Event { event_number: 'A-103-S', project_title: 'Test of Lorentz invariance at the South Pole' })-[:AT]->(south_pole_station),
-(A106M_S)-[:AT]-> (south_pole_station),
-(A106M_S)-[:IS]-> (a_astrophysics_and_geospace),
-(A106M_S:Event { event_number: 'A-106-M/S', project_title: 'Collaborative Research: Polar Experiment Network for Geospace Upper-atmosphere Investigations: Interhemispheric investigations along the 40-degree magnetic meridian' })-[:AT]-> (mcmurdo_station),
-(A107S)-[:IS]->(a_astrophysics_and_geospace),
-(A107S:Event { event_number: 'A-107-S', project_title: 'Collaborative Research: MRI-R2 instrument development of the Askaryan Radio Array, a large-scale radio Cherenkov neutrino detector at the South Pole' })-[:AT]->(south_pole_station),
-(A109M_P_S)-[:AT]->(palmer_station),
-(A109M_P_S)-[:AT]->(south_pole_station),
-(A109M_P_S)-[:IS]->(a_astrophysics_and_geospace),
-(A109M_P_S)-[:IS]->(c_integrated_system_science),
-(A109M_P_S:Event { event_number: 'CA-109-M_P_S', project_title: 'Collaborative Research: Antarctic ELF/VLF observations of lightning and lightning-induced electron precipitation' })-[:AT]->(mcmurdo_station),
-(A110M_S)-[:AT]->(south_pole_station),
-(A110M_S)-[:IS]->(a_astrophysics_and_geospace),
-(A110M_S:Event { event_number: 'A-110-M_S', project_title: 'Austral high-latitude atmospheric dynamics' })-[:AT]->(mcmurdo_station),
-(A111M)-[:IS]->(a_astrophysics_and_geospace),
-(A111M)-[:AT]->(south_pole_station),
-(A111M_S:Event { event_number: 'TA-111-M_S', project_title: 'Studies of the polar Ionosphere and Magnetosphere from measurements in Antarctica' })-[:AT]->(mcmurdo_station),
-(A112)-[:IS]->(a_astrophysics_and_geospace),
-(A112M:Event { event_number: 'TA-112-M', project_title: 'Polar experiment network for geospace upper-atmosphere investigations: PENGUIn - A high-latitude window to geospace dynamics' })-[:AT]->(mcmurdo_station),
-(A118S)-[:IS]->(a_astrophysics_and_geospace),
-(A118S:Event { event_number: 'A-118-S', project_title: 'Element composition of high-energy solar particles' })-[:AT]->(south_pole_station),
-(A119M_S)-[:AT]->(south_pole_station),
-(A119M_S:Event { event_number: 'A-119-M_S', project_title: 'Investigating wave-driven mesospheric dynamics over South Pole using an advanced mesospheric temperature mapper' })-[:AT]->(mcmurdo_station),
-(A119M_S_XX)-[:AT]->(south_pole_station),
-(A119M_S_XX:Event { event_number: 'A-119-M_S', project_title: 'Development of an ANtarctic Gravity Wave Imager Network (ANGWIN) for collaborative mesospheric research' })-[:AT]->(mcmurdo_station),
-(A120M)-[:IS]->(a_astrophysics_and_geospace),
-(A120M:Event { event_number: 'A-120-M', project_title: 'Cosmic ray observations at McMurdo Station' })-[:AT]->(mcmurdo_station),
-(A125S)-[:IS]->(a_astrophysics_and_geospace),
-(A125S:Event { event_number: 'A-125-S', project_title: 'Application of the AGO network to energy transfer in the radiation belts and remote sensing of auroral plasma processes' })-[:AT]->(south_pole_station),
-(A127M)-[:IS]->(a_astrophysics_and_geospace),
-(A127M:Event { event_number: 'A-127-M', project_title: 'Development of hexagonal radio array for the ARIANNA ultra-high energy neutrino detector' })-[:AT]->(mcmurdo_station),
-(A128S)-[:IS]->(a_astrophysics_and_geospace),
-(A128S:Event { event_number: 'A-128-S', project_title: 'Outstanding Questions on Auroral Radiation Fine Structure' })-[:AT]->(south_pole_station),
-(A130M)-[:IS]->(a_astrophysics_and_geospace),
-(A130M:Event { event_number: 'A-130-M', project_title: 'Lidar Investigation of middle and upper atmosphere temperature, composition, chemistry, and dynamics at McMurdo, Antarctica' })-[:AT]->(mcmurdo_station),
-(A132P)-[:IS]->(a_astrophysics_and_geospace),
-(A132P:Event { event_number: 'A-132-P', project_title: 'Thermospheric neutral wind observation in the Antarctica Peninsula' })-[:AT]->(palmer_station),
-(A142M)-[:IS]->(a_astrophysics_and_geospace),
-(A142M:Event { event_number: 'A-142-M', project_title: 'Super Trans-Iron Galactic Element Recorder (SuperTIGER)' })-[:AT]->(south_pole_station),
-(A145M)-[:IS]->(a_astrophysics_and_geospace),
-(A145M:Event { event_number: 'A-145-M', project_title: 'NASA Long Duration Balloon (LDB) support program' })-[:AT]->(mcmurdo_station),
-(A146)-[:IS]->(a_astrophysics_and_geospace),
-(A146M:Event {event_number: 'A-146-M', project_title: 'E & B Experiment (EBEX)' })-[:AT]->(mcmurdo_station),
-(A147M)-[:IS]->(a_astrophysics_and_geospace),
-(A147M:Event { event_number: 'A-147-M', project_title: 'Balloon-borne Large Aperture Sub-millimeter Telescope (BLAST-POL)' })-[:AT]->(mcmurdo_station),
-(A149S)-[:IS]->(a_astrophysics_and_geospace),
-(A149S:Event { event_number: 'A-149-S', project_title: 'Collaborative Research: BICEP2 and SPUD - A search for inflation with degree-scale polarimetry from the South Pole' })-[:AT]->(south_pole_station),
-(A333S)-[:IS]->(a_astrophysics_and_geospace),
-(A333S:Event { event_number: 'A-333-S', project_title: 'IceCube operations and maintenance' })-[:AT]->(south_pole_station),
-(A336P)-[:IS]->(a_astrophysics_and_geospace),
-(A336P:Event { event_number: 'A-336-P', project_title: 'ELF/VLF observation of whistler-mode waves, lightning discharge, and gamma-ray events from Palmer Station' })-[:AT]->(palmer_station),
-(A356S)-[:IS]->(a_astrophysics_and_geospace),
-(A356S:Event { event_number: 'A-356-S', project_title: 'Analysis of the data from the Gattini Antarctic camera network' })-[:AT]->(south_pole_station),
-(A357M:Event { event_number: 'A-357-M', project_title: 'South American Meridional B-Field Array (SAMBA): An American-Chilean chain' })-[:AT]->(mcmurdo_station),
-(A364S)-[:IS]->(a_astrophysics_and_geospace),
-(A364S:Event { event_number: 'A-364-S', project_title: 'High Elevation Antarctic Terahertz (HEAT) telescopes for Dome A and Ridge A' })-[:AT]->(south_pole_station),
-(A369M_S)-[:AT]->(south_pole_station),
-(A369M_S)-[:IS]->(a_astrophysics_and_geospace),
-(A369M_S:Event { event_number: 'A-369-M_S', project_title: 'McMurdo and South Pole SuperDARN: Investigation of the ionospheric dynamics and magnetosphere-ionosphere coupling in Antarctica' })-[:AT]->(mcmurdo_station),
-(A370S)-[:IS]->(a_astrophysics_and_geospace),
-(A370S:Event { event_number: 'A-370-S', project_title: 'Science Coordination Office for Astrophysical Research in Antarctica (SCOARA-II)' })-[:AT]->(south_pole_station),
-(A3790S)-[:IS]->(a_astrophysics_and_geospace),
-(A379S:Event { event_number: 'A-379-S', project_title: 'Cosmological Research with the 10-meter South Pole Telescope' })-[:AT]->(south_pole_station),
 
-//B = Organisms and Ecosystems
-
-(B009M:Event { event_number: 'B-009-M', project_title: 'The demographic consequences of environmental variability and individual heterogeneity in life-history tactics of a long-lived Antarctic marine predator' })-[:AT]->(mcmurdo_station),
-(B009M)-[:IS]->(b_organisms_and_ecosystems),
-(B013L_P)-[:AT]->(lmg_vessel),
-(B013L_P)-[:IS]->(b_organisms_and_ecosystems),
-(B013L_P:Event { event_number: 'B-013-L_P', project_title: 'Palmer Long Term Ecological Research (LTER): Looking back in time through marine ecosystem space, apex predator component' })-[:AT]->(palmer_station),
-(B020L_P)-[:AT]->(palmer_station),
-(B020L_P)-[:IS]->(b_organisms_and_ecosystems),
-(B020L_P:Event { event_number: 'B-020-L_P', project_title: 'Palmer Long Term Ecological Research (LTER): Looking back in time through marine ecosystem space, zooplankton component' })-[:AT]->(lmg_vessel),
-(B021L)-[:IS]->(b_organisms_and_ecosystems),
-(B021L:Event { event_number: 'B-021-L', project_title: 'Palmer Long Term Ecological Research (LTER): Looking back in time through marine ecosystem space, physical oceanography component' })-[:AT]->(lmg_vessel),
-(B021L:Event { event_number: 'B-021-L', project_title: 'Palmer Long Term Ecological Research (LTER): Looking back in time through marine ecosystem space, physical oceanography component' })-[:AT]->(lmg_vessel),
-(B031M)-[:IS]->(b_organisms_and_ecosystems),
-(B031M)-[:IS]->(c_integrated_system_science),
-(B031M:Event { event_number: 'B-031-M', project_title: 'Adelie Penguin response to climate change at the individual, colony and metapopulation levels' })-[:AT]->(mcmurdo_station),
-(B034E_M)-[:IS]->(b_organisms_and_ecosystems),
-(B034E_M:Event { event_number: 'DB-034-E_M', project_title: 'Stable isotope analyses of pygoscelid penguin remains from active and abandoned colonies in Antarctica' })-[:AT]->(mcmurdo_station),
-(B043M)-[:IS]->(g_earth_science),
-(B043M:Event { event_number: 'B-043-M', project_title: 'Evolution and diversity of Antarctic Rhizarian Protists' })-[:AT]->(mcmurdo_station),
-(B044E)-[:IS]->(b_organisms_and_ecosystems),
-(B044E:Event { event_number: 'B-044-E', project_title: 'Collaborative Research: Multispecies, multi-scale investigations of long-term changes in penguin and seabird populations on the Antarctic Peninsula' })-[:AT]->(),
-(B046M)-[:IS]->(b_organisms_and_ecosystems),
-(B046M:Event { event_number: 'B-046-M', project_title: 'The biogeochemical evolution of dissolved organic matter in a fluvial system on the Cotton Glacier, Antarctica' })-[:AT]->(mcmurdo_station),
-(B134M)-[:IS]->(b_organisms_and_ecosystems),
-(B134M:Event { event_number: 'B-134-M', project_title: 'Ocean acidification: Integrated approaches to understanding effects on antarctic sea urchins, Sterechinus neumayeri' })-[:AT]->(mcmurdo_station),
-(B199M)-[:IS]->(b_organisms_and_ecosystems),
-(B199M:Event { event_number: 'B-199-M', project_title: 'Ocean acidification–category 1: Identifying adaptive responses of polar fishes in a vulnerable ecosystem' })-[:AT]->(mcmurdo_station),
-(B256P)-[:IS]->(b_organisms_and_ecosystems),
-(B256P:Event { event_number: 'B-256-P', project_title: 'Role of dehydration and photoperiodism in preparing an Antarctic insect for the polar night' })-[:AT]->(palmer_station),
-(B504M)-[:IS]->(b_organisms_and_ecosystems),
-(B504M:Event { event_number: 'B-504-M', project_title: 'McMurdo LTER - Glaciers: Increased connectivity in a polar desert resulting from climate warming: McMurdo Dry Valleys LTER Program' })-[:AT]->(mcmurdo_station),
-(B505M)-[:IS]->(b_organisms_and_ecosystems),
-(B505M:Event { event_number: 'B-505-M', project_title: 'McMurdo LTER - Lakes: Increased connectivity in a polar desert resulting from climate warming: McMurdo Dry Valley LTER Program' })-[:AT]->(mcmurdo_station),
-(B506M)-[:IS]->(b_organisms_and_ecosystems),
-(B506M:Event { event_number: 'B-506-M', project_title: 'McMurdo LTER - Streams: Increased connectivity in a polar desert resulting from climate warming: McMurdo Dry Valley LTER Program' })-[:AT]->(mcmurdo_station),
-(B507M:Event { event_number: 'B-507-M', project_title: 'McMurdo LTER - Soils: Increased connectivity in a polar desert resulting from climate warming: McMurdo Dry Valley LTER Program' })-[:AT]->(mcmurdo_station),
-(B508M)-[:IS]->(b_organisms_and_ecosystems),
-(B508M:Event { event_number: 'B-508-M', project_title: 'McMurdo LTER - Landscape Ecology: Increased connectivity in a polar desert resulting from climate warming: McMurdo Dry Valley LTER Program' })-[:AT]->(mcmurdo_station),
-(B509M)-[:IS]->(b_organisms_and_ecosystems),
-(B509M:Event { event_number: 'B-509-M', project_title: 'McMurdo LTER - Geochemistry: Increased connectivity in a polar desert resulting from climate warming: McMurdo Dry Valley LTER Program' })-[:AT]->(mcmurdo_station),
-(B518M)-[:IS]->(b_organisms_and_ecosystems),
-(B518M:Event { event_number: 'B-518-M', project_title: 'Temporal variability in natural and anthropogenic disturbance of McMurdo Station' })-[:AT]->(mcmurdo_station),
->>>>>>> c4b959837800deda2d167859b94927a63b5056bd
 
 
 
 //C = Integrated System Science
-<<<<<<< HEAD
+
 ( C407M:Event { event_number: 'C-407-M', project_title: 'IPY: Collaborative Research: Ocean-ice sheet interaction in the Amundsen Sea: The keystone of West Antarctic stability' })-[:AT]->( mcmurdo_station),
 ( C520M:Event { event_number: 'C-520-M', project_title: 'WISSARD surface geophysics' })-[:AT]->( mcmurdo_station),
 ( C524M:Event { event_number: 'C-524-M', project_title: 'WISSARD borehole drill contractor' })-[:AT]->( mcmurdo_station),
 (C407M)-[:IS]->( c_integrated_system_science),
 (C524M)-[:IS]->( c_integrated_system_science),
-=======
-(C407M)-[:IS]->(c_integrated_system_science),
-(C407M:Event { event_number: 'C-407-M', project_title: 'IPY: Collaborative Research: Ocean-ice sheet interaction in the Amundsen Sea: The keystone of West Antarctic stability' })-[:AT]->(mcmurdo_station),
-(C520M:Event { event_number: 'C-520-M', project_title: 'WISSARD surface geophysics' })-[:AT]->(mcmurdo_station),
-(C524M)-[:IS]->(c_integrated_system_science),
-(C524M:Event { event_number: 'C-524-M', project_title: 'WISSARD borehole drill contractor' })-[:AT]->(mcmurdo_station),
->>>>>>> c4b959837800deda2d167859b94927a63b5056bd
+
 
 
 
 //G = Earth Sciences
-<<<<<<< HEAD
+
 ( G058M:Event { event_number: 'G-058-M', project_title: 'Antarctic Search for Meteorites (ANSMET)' })-[:AT]->( mcmurdo_station),
 ( G064M:Event { event_number: 'G-064-M', project_title: 'Exploring the significance of NA-alkaline magmatism in subduction systems, a case study from the Ross Orogen' })-[:AT]->( mcmurdo_station),
 ( G078M:Event { event_number: 'G-078-M', project_title: 'Dry Valley seismic project' })-[:AT]->( mcmurdo_station),
@@ -447,23 +322,7 @@ CREATE
 (G239P)-[:IS]->( g_earth_science),
 (G294M)-[:IS]->( g_earth_science),
 (G501M)-[:IS]->( g_earth_science),
-=======
-(G058M)-[:IS]->(g_earth_science),
-(G058M:Event { event_number: 'G-058-M', project_title: 'Antarctic Search for Meteorites (ANSMET)' })-[:AT]->(mcmurdo_station),
-(G064M)-[:IS]->(g_earth_science),
-(G064M:Event { event_number: 'G-064-M', project_title: 'Exploring the significance of NA-alkaline magmatism in subduction systems, a case study from the Ross Orogen' })-[:AT]->(mcmurdo_station),
-(G078M)-[:IS]->(g_earth_science),
-(G078M:Event { event_number: 'G-078-M', project_title: 'Dry Valley seismic project' })-[:AT]->(mcmurdo_station),
-(G079M:Event { event_number: 'G-079-M', project_title: 'Collaborative research, IPY POLENET-Antarctica: Investigating links between geodynamics and ice sheets' })-[:AT]->(mcmurdo_station),
-(G081M)-[:IS]->(g_earth_science),
-(G081M:Event { event_number: 'G-081-M', project_title: 'Mount Erebus Volcano Observatory III (MEVO III): Conduit processes and surveillance' })-[:AT]->(mcmurdo_station),
-(G239P)-[:IS]->(g_earth_science),
-(G239P:Event { event_number: 'G-239-P', project_title: 'Impact of recent climate warming on active-layer dynamics, permafrost, and soil properties on the western Antarctic Peninsula' })-[:AT]->(palmer_station),
-(G294M)-[:IS]->(g_earth_science),
-(G294M:Event { event_number: 'G-294-M', project_title: 'Collaborative Research: Integrating geomorphological and paleoecological studies to reconstruct Neogene environments of the Transantarctic Mountains' })-[:AT]->(mcmurdo_station),
-(G501M)-[:IS]->(g_earth_science),
-(G501M:Event { event_number: 'G-501-M', project_title: 'Systematic analysis of the stability and ages of soil surfaces in Transantarctic Mountains' })-[:AT]->(mcmurdo_station),
->>>>>>> c4b959837800deda2d167859b94927a63b5056bd
+
 
 //I = Glaciology
 
@@ -476,23 +335,11 @@ CREATE
 ( I477M:Event { event_number: 'I-477-M', project_title: 'WAIS Divide Science Coordination Office (SCO)' })-[:AT]->( mcmurdo_station),
 (I077E)-[:IS]->(i_glaciology),
 (I173M)-[:IS]->(i_glaciology),
-<<<<<<< HEAD
 (I185M)-[:IS]->( a_astrophysics_and_geospace),
 (I185M)-[:IS]->(i_glaciology),
 (I209M)-[:IS]->(i_glaciology),
 (I476M)-[:IS]->(i_glaciology),
-=======
-(I173M:Event { event_number: 'I-173-M', project_title: 'Roosevelt Island Climate Evolution (RICE) project' })-[:AT]->(mcmurdo_station),
-(I185M)-[:IS]->(a_astrophysics_and_geospace),
-(I185M)-[:IS]->(i_glaciology),
-(I185M:Event { event_number: 'I-185-M', project_title: 'Center for Remote Sensing of Ice Sheets (CReSIS) - Unmanned Aerial System (UAS) operations' })-[:AT]->(mcmurdo_station),
-(I189M:Event { event_number: 'I-189-M', project_title: 'Center for Remote Sensing of Ice Sheets (CReSIS) - Basler airborne radar survey' })-[:AT]->(mcmurdo_station),
-(I209M)-[:IS]->(i_glaciology),
-(I209M:Event { event_number: 'I-209-M', project_title: 'Deglaciation of the Ross Sea Embayment - constraints from Roosevelt Island' })-[:AT]->(mcmurdo_station),
-(I476M)-[:IS]->(i_glaciology),
-(I476M:Event { event_number: 'I-476-M', project_title: 'Collaborative Research: Replicate coring at WAIS Divide to obtain additional samples at events of high scientific interest' })-[:AT]->(mcmurdo_station),
-(I477M:Event { event_number: 'I-477-M', project_title: 'WAIS Divide Science Coordination Office (SCO)' })-[:AT]->(mcmurdo_station),
->>>>>>> c4b959837800deda2d167859b94927a63b5056bd
+
 
 //O = Oceans and Atmospheric Sciences
 ( O214L:Event { event_number: 'O-214-L', project_title: 'Collaborative research: Biogeochemical controls of the oxygen and carbon system in the Drake Passage' })-[:AT]->(lmg_vessel),
@@ -504,7 +351,6 @@ CREATE
 (O214L)-[:AT]->(o_oceans_and_atmospheric_sciences),
 (O260L)-[:IS]->(o_oceans_and_atmospheric_sciences),
 (O283M)-[:IS]->(o_oceans_and_atmospheric_sciences),
-<<<<<<< HEAD
 (O283M_S)-[:AT]->( south_pole_station),
 (O313N)-[:IS]->(o_oceans_and_atmospheric_sciences),
 (O317L_N)-[:AT]->( nbp_vessel),
