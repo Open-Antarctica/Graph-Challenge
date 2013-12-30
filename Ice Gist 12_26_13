@@ -1,0 +1,362 @@
+//OUTLINE
+//1.Locations
+//2.Sciences
+//3.Field Season
+//4.Person_USAP works on EVENT BY FIELD SEASON at LOCATION
+//5.EVENT BY FIELD SEASON is part of the GROUP which is an instance of this CATEGORY
+
+
+
+//
+
+//Creating Locations
+
+
+
+//Creating CATEGORIES
+
+CREATE
+( a_astrophysics_and_geospace:Science { name: 'Astrophysics and Geospace Sciences' }),
+( b_organisms_and_ecosystems:Science { name: 'Organisms and Ecosystems' }),
+( c_integrated_system_science:Science { name: 'Integrated System Science' }),
+( g_earth_science:Science { name: 'Earth Science' }),
+( i_glaciology:Science { name: 'Glaciology' }),
+( o_oceans_and_atmospheric_sciences:Science { name: 'Oceans and Atmospheric Sciences' }),
+( w_artists_and_writers:Science { name: 'Artists and Writers' }),
+( t_technical_event:Science { name: 'Technical Event' })
+
+
+// CREATE (Person_USAP)-[:WORKS_FOR {group_role: 'Principal Investigator'}]->(Event)-[:IS_AT]->(Location)
+
+
+
+//Person_USAP works on EVENT 2000-2001 at LOCATION
+
+//Person_USAP works on EVENT 2001-2002 at LOCATION
+
+//Person_USAP works on EVENT 2002-2003 at LOCATION
+
+//Person_USAP works on EVENT 2003-2004 at LOCATION
+
+//Person_USAP works on EVENT 2004-2005 at LOCATION
+
+//Person_USAP works on EVENT 2005-2006 at LOCATION
+
+//Person_USAP works on EVENT 2006-2007 at LOCATION
+
+//Person_USAP works on EVENT 2007-2008 at LOCATION
+
+//Person_USAP works on EVENT 2008-2009 at LOCATION
+
+//Person_USAP works on EVENT 2009-2010 at LOCATION
+
+//Person_USAP works on EVENT 2010-2011 at LOCATION
+
+CREATE
+( ackley_stephen:Person_USAP { name: 'Ackley, Stephen' })-[:WORKS_ON {group_role: 'Principal Investigator'}]->((o269o_10_11:Event {name: 'O-269-O 2010-2011'})-[:AT]->(mcmurdo_station:Station { name: 'McMurdo Station' }),
+( ainley_david:Person_USAP { name: 'Ainley, David' })--[:WORKS_ON {group_role: 'Principal Investigator'}]->(b031m_10_11:Event {name: 'B-031-M 2010-2011'})-[:AT]->(mcmurdo_station),
+(alderkamp_anne_crlijn:Person_USAP {name: 'Alderkamp, Anne Crlijn'})-[:WORKS_FOR]->(b198n_10_11)-[:IS_AT]->(nbp_vessel:Vessel { name: 'Nathaniel B. Palmer' }),
+(amsler_charles:Person_USAP {name: 'Amsler, Charles'})-[:WORKS_FOR]->(b022p_10_11)-[:IS_AT]->( palmer_station:Station { name: 'Palmer Station' }),
+
+(anandakrishnan_sridhar:Person_USAP { name: 'Anandakrishnan, Sridhar'})-[:WORKS_FOR]->(c520m_10_11)-[:IS_AT]->( mcmurdo_station),
+(andersen_dale:Person_USAP {name: 'Andersen, Dale'})-[:WORKS_FOR]->(g441m_10_11)-[:IS_AT]->( mcmurdo_station),
+(aronson_richard:Person_USAP {name: 'Aronson, Richard'})-[:WORKS_FOR]->(b002o_10_11),
+(arrigo_kevin:Person_USAP {name: 'Arrigo, Kevin'})-[:WORKS_FOR]->(b244o_10_11),
+(ashworth_allan:Person_USAP {name: 'Ashworth, Allan'})-[:WORKS_FOR]->(g502m_10_11)-[:IS_AT]->( mcmurdo_station),
+(ashworth_allan)-[:WORKS_FOR]->(g294m_10_11)-[:IS_AT]->( mcmurdo_station),
+(avallone_linnea:Person_USAP {name: 'Avallone, Linnea'})-[:WORKS_FOR]->(o324m_10_11)-[:IS_AT]->( mcmurdo_station),
+(balco_gregory:Person_USAP {name: 'Balco, Gregory'})-[:WORKS_FOR]->(i156m_10_11)-[:IS_AT]->( mcmurdo_station),
+(barrett_john:Person_USAP {name:'Barrett, John'})-[:WORKS_FOR]->(b462m_10_11)-[:IS_AT]->( mcmurdo_station),
+(barrett_john)-[:WORKS_FOR]->(b023m_10_11)-[:IS_AT]->( mcmurdo_station),
+(barwick_steven:Person_USAP {name:'Barwick, Steven'})-[:WORKS_FOR]->(a127m_10_11)-[:IS_AT]->( mcmurdo_station),
+(beebe_morton:Person_USAP {name: 'Beebe, Morton'})-[:WORKS_FOR]->(w222m_10_11)-[:IS_AT]->( mcmurdo_station),
+(besson_dave:Person_USAP {name: 'Besson, Dave'})-[:WORKS_FOR]->(a123s_10_11)-[:IS_AT]->( south_pole_station:Station { name: 'Amundsen-Scott South Pole Station' },
+(bieber_john:Person_USAP {name: 'Bieber, John'})-[:WORKS_FOR]->(a120m_10_11)-[:IS_AT]->( mcmurdo_station),
+(blankenship_donald: Person_USAP {name: 'Blankenship, Donald'})-[:WORKS_FOR]->(g098m_10_11)-[:IS_AT]->( mcmurdo_station),
+(bockheim_james:Person_USAP {name: 'Bockheim, James'})-[:WORKS_FOR]->(g239e_10_11)-[:IS_AT]->( palmer_station)
+(bowser_samuel:Person_USAP {name: 'Bowser, Samuel'})-[:WORKS_FOR]->(g093m_10_11)-[:IS_AT]->( mcmurdo_station),
+(bristow_william:Person_USAP {name: 'Bristow, William' })-[:WORKS_FOR]->(a369m_10_11)-[:IS_AT]->( mcmurdo_station),
+(brown_michael:Person_USAP {name: 'Brown, Michael'})-[:WORKS_FOR]->(g097m_10_11)-[:IS_AT]->( mcmurdo_station),
+(brum_jennifer:Person_USAP {name: 'Brum, Jennifer'})-[:WORKS_FOR]->(b319p_10_11)-[:IS_AT]->( palmer_station),
+(buckley_bradley:Person_USAP {name: 'Buckley, Bradley'})-[:WORKS_FOR]->(b308m_10_11)-[:IS_AT]->( mcmurdo_station),
+(butler_james:Person_USAP {name: 'Butler, James' })-[:WORKS_FOR]->(o257s_10_11)-[:IS_AT]->( south_pole_station),
+(carlstrom_john:Person_USAP {name: 'Carlstrom, John'})-[:WORKS_FOR]->(a379s_10_11)-[:IS_AT]->( south_pole_station),
+(carlstrom_john)-[:WORKS_FOR]->(a370s_10_11)-[:IS_AT]->( south_pole_station),
+(chereskin_teresa:Person_USAP {name: 'Chereskin, Teresa'})-[:WORKS_FOR]->(o313n_10_11)-[:IS_AT]->( nbp_vessel),
+(chu_xinzhao:Person_USAP {name: 'Chu, Xinzhao'})-[:WORKS_FOR]->(a130m_10_11)-[:IS_AT]->( mcmurdo_station),
+(cohn_stephen:Person_USAP {name: Cohn, Stephen})-[:WORKS_FOR]->(o363m_10_11)-[:IS_AT]->( mcmurdo_station),
+(coles_katharine:Person_USAP {name:'Coles, Katharine'})-[:WORKS_FOR]->(w485p_10_11)-[:IS_AT]->( palmer_station),
+(comberiate_mike:Person_USAP {name: 'Comberiate, Mike'})-[:WORKS_FOR]->(t966m_10_11)-[:IS_AT]->( mcmurdo_station),
+(comes_laura:Person_USAP {name: 'Comes, Laura'})-[:WORKS_FOR]->(t998p_10_11)-[:IS_AT]->( palmer_station),
+(conway_howard:Person_USAP {name: 'Conway, Howard'})-[:WORKS_FOR]->(i157m_10_11)-[:IS_AT]->( mcmurdo_station),
+(conway_howard)-[:WORKS_FOR]->(i414m_10_11)-[:IS_AT]->( mcmurdo_station),
+(conway_howard)-[:WORKS_FOR]->(i209m_10_11)-[:IS_AT]->( mcmurdo_station),
+(costa_daniel:Person_USAP {name: 'Costa, Daniel'})-[:WORKS_FOR]->(b232m_10_11)-[:IS_AT]->( mcmurdo_station),
+(cottrell_matthew:Person_USAP {name:'Cottrell, Matthew'})-[:WORKS_FOR]->(b026p_10_11)-[:IS_AT]->( palmer_station),
+(davis_randall:Person_USAP {name: 'Davis, Randall'})-[:WORKS_FOR]->(b017m_10_11)-[:IS_AT]->( mcmurdo_station),
+(deshler_terry:Person_USAP {name: 'Deshler, Terry'})-[:WORKS_FOR]->(o131m_10_11)-[:IS_AT]->( mcmurdo_station),
+(deshler_terry)-[:WORKS_FOR]->(o361m_10_11)-[:IS_AT]->( mcmurdo_station),
+(devlin_mark:Person_USAP {name: 'Devlin, Mark'})-[:WORKS_FOR]->(a147m_10_11)-[:IS_AT]->( mcmurdo_station),
+(dickhut_rebecca:Person_USAP {name: 'Dickhut, Rebecca'})-[:WORKS_FOR]->(b389o_p_10_11)-[:IS_AT]->( palmer_station),
+(doran_peter:Person_USAP {name: 'Doran, Peter'})-[:WORKS_FOR]->(b208m_10_11)-[:IS_AT]->( mcmurdo_station),
+(doran_peter)-[:WORKS_FOR]->(b426m_10_11)-[:IS_AT]->( mcmurdo_station),
+(elliot_david:Person_USAP {name: 'Elliot, David'})-[:WORKS_FOR]->(g497m_10_11)-[:IS_AT]->( mcmurdo_station),
+(emslie_steven:Person_USAP {name: 'Emslie, Steven'})-[:WORKS_FOR]->(b034e_m_10_11)-[:IS_AT]->( mcmurdo_station),
+(engebretson_mark:Person_USAP {name: 'Engebretson, Mark'})-[:WORKS_FOR]->(a102m_s_10_11)-[:IS_AT]->( mcmurdo_station),
+(engebretson_mark)-[:WORKS_FOR]->(a102m_s_10_11)-[:IS_AT]->( south_pole_station),
+(evenson_paul:Person_USAP {name: 'Evenson, Paul'})-[:WORKS_FOR]->(a120m_10_11)-[:IS_AT]->( mcmurdo_station),
+(foreman_christine:Person_USAP {name: 'Foreman, Christine'})-[:WORKS_FOR]->(b046m_10_11)-[:IS_AT]->( mcmurdo_station),
+(fountain_andrew:Person_USAP {name: 'Fountain, Andrew'})-[:WORKS_FOR]->(b425m_10_11)-[:IS_AT]->( mcmurdo_station),
+(fraser_bill:Person_USAP {name: 'Fraser, Bill'})-[:WORKS_FOR]->(b013l_p_10_11)-[:IS_AT]->( palmer_station),
+(fraser_bill)-[:WORKS_FOR]->(b013l_p_10_11)-[:IS_AT]->( lmg_vessel:Vessel { name: 'Laurence M. Gould' }),
+(fritts_david:Person_USAP {name: 'Fritts, David'})-[:WORKS_FOR]->(a113e_10_11)-[:IS_AT]->( ferraz_base:Station {name: 'Ferraz Base'})
+(garrott_robert:Person_USAP {name: 'Garrott, Robert'})-[:WORKS_FOR]->(b009m_10_11)-[:IS_AT]->( mcmurdo_station),
+(goodge_john:Person_USAP {name:'Goodge, John'})-[:WORKS_FOR]->(g503m_10_11)-[:IS_AT]->( mcmurdo_station),
+(hall_brenda:Person_USAP {name: 'Hall, Brenda'})-[:WORKS_FOR]->(i414m_10_11)-[:IS_AT]->( mcmurdo_station),
+(hall_brenda)-[:WORKS_FOR]->(i196m_10_11)-[:IS_AT]->( mcmurdo_station),
+(halzen_francis:Person_USAP {name:'Halzen, Francis'})-[:WORKS_FOR]->(a333s_10_11)-[:IS_AT]->( south_pole_station),
+(hammer_william:Person_USAP {name: 'Hammer, William'})-[:WORKS_FOR]->(g495m_10_11)-[:IS_AT]->( mcmurdo_station),
+(hargreaves_geoffrey:Person_USAP {name: 'Hargreaves, Geoffrey'})-[:WORKS_FOR]->(i478m_10_11)-[:IS_AT]->( mcmurdo_station),
+(hasiotis_stephen:Person_USAP {name:' Hasiotis, Stephen'})-[:WORKS_FOR]->(g498m_10_11)-[:IS_AT]->( mcmurdo_station),
+(hernandez_gonzalo:Person_USAP {name:'Hernandex, Gonzalo'})-[:WORKS_FOR]->(a110m_s_10_11)-[:IS_AT]->( mcmurdo_station),
+(hernandez_gonzalo)-[:WORKS_FOR]-(a110m_s_10_11)-[:IS_AT]->( south_pole_station),
+(hofmann_gretchen:Person_USAP {name: 'Hofmann, Gretchen'})-[:WORKS_FOR]->(b134m_10_11)-[:IS_AT]->( mcmurdo_station),
+(hollibaugh_james:Person_USAP {name:'Hollibaugh, James'})-[:WORKS_FOR]->(b114l_10_11)-[:IS_AT]->( lmg_vessel),
+(hood_charles:Person_USAP {name:'Hood, Charles'})-[:WORKS_FOR]->(w223m_10_11)-[:IS_AT]->( mcmurdo_station),
+(huber_bruce::Person_USAP {name: 'Huber, Bruce')-[:WORKS_FOR]->(o399n_10_11)-[:IS_AT]->( nbp_vessel),
+(inan_umran:Person_USAP {name:'Inan, Umran')-[:WORKS_FOR]->(a336p_10_11)-[:IS_AT]->( palmer_station),
+(inan_umran)-[:WORKS_FOR]->(a327n_10_11)-[:IS_AT]->( nbp_vessel),
+(inan_umran)-[:WORKS_FOR]->(a108m_s_10_11)-[:IS_AT]->( mcmurdo_station),
+(inan_umran)-[:WORKS_FOR]->(a108m_s_10_11)-[:IS_AT]->( south_pole_station),
+(jacobs_stanley:Person_USAP {name:'Jacobs, Stanley')-[:WORKS_FOR]->(o274n_10_11)-[:IS_AT]->( nbp_vessel),
+(johns_bjorn:Person_USAP {name:'Johns, Bjorn')-[:WORKS_FOR]->(t295m_10_11)-[:IS_AT]->( mcmurdo_station),
+(joughin_ian:Person_USAP {name:'Joughin, Ian')-[:WORKS_FOR]->(i157m_10_11)-[:IS_AT]->( mcmurdo_station),
+(karle_albrecht:Person_USAP {name:'Karle, Albrecht')-[:WORKS_FOR]->(a107s_10_11)-[:IS_AT]->( south_pole_station),
+(kemerait_robert:Person_USAP {name:'Kemerait, Robert')-[:WORKS_FOR]->(g078m_10_11)-[:IS_AT]->( mcmurdo_station),
+(kennicutt_mahlon:Person_USAP {name:'Kennicutt, Mahlon')-[:WORKS_FOR]->(b518m_10_11)-[:IS_AT]->( mcmurdo_station),
+(kirschvink_joseph:Person_USAP {name:'Kirschvink, Joseph')-[:WORKS_FOR]->(g436e_10_11)-[:IS_AT]->( lmg_vessel),
+(kohut_josh:Person_USAP {name:'Kohut, Josh')-[:WORKS_FOR]->(o216m_n_10_11)-[:IS_AT]->( nbp_vessel),
+(kohut_josh)-[:WORKS_FOR]->(b518m_10_11)-[:IS_AT]->( mcmurdo_station),
+(kulesa_craig:Person_USAP {name:'Kulesa, Craig')-[:WORKS_FOR]->(a364s_10_11)-[:IS_AT]->( south_pole_station),
+(kurbatov_andrei:Person_USAP {name:'Kurbatov, Andrei')-[:WORKS_FOR]->(i349m_10_11)-[:IS_AT]->( mcmurdo_station),
+(kyle_phillip:Person_USAP {name:'Kyle, Phillip')-[:WORKS_FOR]->(g081m_10_11)-[:IS_AT]->( mcmurdo_station),
+(labelle_james:Person_USAP {name:'Labelle, James')-[:WORKS_FOR]->(a128s_10_11)-[:IS_AT]->( south_pole_station),
+(lee_richard:Person_USAP {name:'Lee, Richard')-[:WORKS_FOR]->(b256p_10_11)-[:IS_AT]->( palmer_station),
+(lewis_adam:Person_USAP {name:'Lewis, Adam')-[:WORKS_FOR]->(g502m_10_11)-[:IS_AT]->( mcmurdo_station),
+(lewis_adam)-[:WORKS_FOR]->(g294m_10_11)-[:IS_AT]->( mcmurdo_station),
+(licht_kathy:Person_USAP {name:'Kathy, Licht')-[:WORKS_FOR]->(g499m_10_11)-[:IS_AT]->( mcmurdo_station),
+(lyons_w_berry:Person_USAP {name:'Lyons, Berry W.')-[:WORKS_FOR]->(b420m_10_11)-[:IS_AT]->( mcmurdo_station),
+(macphee_ross:Person_USAP {name:'MacPhee, Ross')-[:WORKS_FOR]->(g170e_10_11)-[:IS_AT]->( palmer_station),
+(martinson_doug:Person_USAP {name:'Martinson, Doug')-[:WORKS_FOR]->(b021l_10_11)-[:IS_AT]->( lmg_vessel),
+(maruyama_reina_heeg:Person_USAP {name:'Maruyama, Reina Heeg')-[:WORKS_FOR]->(a334s_10_11)-[:IS_AT]->( south_pole_station),
+(mccarthy_kevin:Person_USAP {name:'McCarthy, Kevin')-[:WORKS_FOR]->(t927m_10_11)-[:IS_AT]->( mcmurdo_station),
+(mckay_christopher:Person_USAP {name:'McKay, Christopher')-[:WORKS_FOR]->(b302m_10_11)-[:IS_AT]->( mcmurdo_station),
+(mende_stephen:Person_USAP {name:'Menda, Stephen')-[:WORKS_FOR]->(a104s_10_11)-[:IS_AT]->( south_pole_station),
+(mercer_jennifer:Person_USAP {name:'Mercer, Jennifer')-[:WORKS_FOR]->(t940m_10_11)-[:IS_AT]->( mcmurdo_station),
+(miller_molly:Person_USAP {name:'Miller, Molly')-[:WORKS_FOR]->(g093m_10_11)-[:IS_AT]->( mcmurdo_station),
+(moline_mark_alan:Person_USAP {name:'Moline, Mark Alan')-[:WORKS_FOR]->(b391p_10_11)-[:IS_AT]->( palmer_station),
+(moore_anna:Person_USAP {name:'Moore, Anna')-[:WORKS_FOR]->(a356s_10_11)-[:IS_AT]->( south_pole_station),
+(moore_robert:Person_USAP {name:'Moore, Robert')-[:WORKS_FOR]->(a109m_p_10_11)-[:IS_AT]->( mcmurdo_station),
+(moore_robert)-[:WORKS_FOR]->(a109m_p_10_11)-[:IS_AT]->( palmer_station),
+(neill_christopher:Person_USAP {name:'Neill, Christopher')-[:WORKS_FOR]->(y609p_10_11)-[:IS_AT]->( palmer_station),
+(oliver_john:Person_USAP {name:'Oliver, John')-[:WORKS_FOR]->(b200m_10_11)-[:IS_AT]->( mcmurdo_station),
+(palo_scott:Person_USAP {name:'Palo, Scott')-[:WORKS_FOR]->(a284s_10_11)-[:IS_AT]->( south_pole_station),
+(parker_timothy:Person_USAP {name:'Parker, Timothy')-[:WORKS_FOR]->(t299m_10_11)-[:IS_AT]->( mcmurdo_station),
+(pettit_erin:Person_USAP {name:'Pettit, Erin')-[:WORKS_FOR]->(i166m_10_11)-[:IS_AT]->( mcmurdo_station),
+(priscu_john:Person_USAP {name:'Priscu, John')-[:WORKS_FOR]->(b422m_10_11)-[:IS_AT]->( mcmurdo_station),
+(pryke_clement:Person_USAP {name:'Pryke, Clement')-[:WORKS_FOR]->(a149s_10_11)-[:IS_AT]->( south_pole_station),
+(putkonen_jaakko:Person_USAP {name:'Putkonen, Jaakko')-[:WORKS_FOR]->(g501m_10_11)-[:IS_AT]->( mcmurdo_station),
+(rabier_florence:Person_USAP {name:'Rabier, Florence')-[:WORKS_FOR]->(o360m_10_11)-[:IS_AT]->( mcmurdo_station),
+(rack_frank:Person_USAP {name:'Rack, Frank')-[:WORKS_FOR]->(g049m_10_11)-[:IS_AT]->( mcmurdo_station),
+(rupper_summer:Person_USAP {name:'Rupper, Summer')-[:WORKS_FOR]->(i158m_10_11)-[:IS_AT]->( mcmurdo_station),
+(sanders_robert:Person_USAP {name:'Sanders, Robert')-[:WORKS_FOR]->(b303n_10_11)-[:IS_AT]->( nbp_vessel),
+(scambos_theodore:Person_USAP {name:'Scambos, Theodore')-[:WORKS_FOR]->(c514e_10_11)-[:IS_AT]->( rothera_station:Station {name:'Rothera Station'}),
+(seo_eun_suk:Person_USAP {name:'Seo Eun, Suk')-[:WORKS_FOR]->(a137m_10_11)-[:IS_AT]->( mcmurdo_station),
+(shore_patrick:Person_USAP {name:'Shore, Patrick')-[:WORKS_FOR]->(g089m_s_10_11)-[:IS_AT]->( mcmurdo_station),
+(shore_patrick)-[:WORKS_FOR]->(g089m_s_10_11)-[:IS_AT]->( south_pole_station),
+(sivjee_gulamabas:Person_USAP {name:'Sivjee, Gulamabas')-[:WORKS_FOR]->(a129s_10_11)-[:IS_AT]->( south_pole_station),
+(sletten_ronald:Person_USAP {name:'Sletten, Ronald')-[:WORKS_FOR]->(g121m_10_11)-[:IS_AT]->( mcmurdo_station),
+(smith_walker:Person_USAP {name:'Smith, Walker')-[:WORKS_FOR]->(b047m_n_10_11)-[:IS_AT]->( mcmurdo_station),
+(smith_walker)-[:WORKS_FOR]->(b047m_n_10_11)-[:IS_AT]->( nbp_vessel),
+(spain_sharon:Person_USAP {name:Spain, Sharon)-[:WORKS_FOR]->(b429m_10_11)-[:IS_AT]->( mcmurdo_station),
+(staudigel_hubert:Person_USAP {name:'Staudigel, Hubert')-[:WORKS_FOR]->(g439m_10_11)-[:IS_AT]->( mcmurdo_station),
+(stearns_leigh:Person_USAP {name:'Stearns, Leigh')-[:WORKS_FOR]->(i351m_10_11)-[:IS_AT]->( mcmurdo_station),
+(steffen_konrad:Person_USAP {name:'Steffen, Konrad')-[:WORKS_FOR]->(i077e_10_11)-[:IS_AT]->( rothera_station)
+(steinberg_deborah:Person_USAP {name:'Steinberg, Deborah')-[:WORKS_FOR]->(b020l_p_10_11)-[:IS_AT]->( palmer_station),
+(steinberg_deborah)-[:WORKS_FOR]->(b020l_p_10_11)-[:IS_AT]->( lmg_vessel),
+(stepp_bill:Person_USAP {name:'Stepp, Bill')-[:WORKS_FOR]->(a145m_10_11)-[:IS_AT]->( mcmurdo_station),
+(steward_grieg:Person_USAP {name:'Steward, Grieg')-[:WORKS_FOR]->(b239p_10_11)-[:IS_AT]->( palmer_station),
+(stump_edmund:Person_USAP {name:'Stump, Edward')-[:WORKS_FOR]->(g415m_10_11)-[:IS_AT]->( mcmurdo_station),
+(szuberla_curt:Person_USAP {name: 'Szuberla, Curt')-[:WORKS_FOR]->(t396m_10_11)-[:IS_AT]->( mcmurdo_station),
+(taylor_edith:Person_USAP {name:'Taylor, Edith')-[:WORKS_FOR]->(g496m_10_11)-[:IS_AT]->( mcmurdo_station),
+(taylor_kendrick:Person_USAP {name:'Taylor, Kendrick')-[:WORKS_FOR]->(i477m_10_11)-[:IS_AT]->( mcmurdo_station),
+(taylor_michael:Person_USAP {name:'Taylor, Michael')-[:WORKS_FOR]->(a119s_10_11)-[:IS_AT]->( south_pole_station),
+(virginia_ross:Person_USAP {name:'Virginia, Ross')-[:WORKS_FOR]->(b423m_10_11)-[:IS_AT]->( mcmurdo_station),
+(wall_diana:Person_USAP {name:'Wall, Diana')-[:WORKS_FOR]->(b424m_10_11)-[:IS_AT]->( mcmurdo_station),
+(warren_stephen:Person_USAP {name:'Warren, Stephen')-[:WORKS_FOR]->(c516m_10_11)-[:IS_AT]->( mcmurdo_station),
+(wilson_terry:Person_USAP {name: 'WIlson, Terry')-[:WORKS_FOR]->(g049m_10_11)-[:IS_AT]->( mcmurdo_station),
+(winberry_jeremy:Person_USAP {name:'Winberry, Jeremy')-[:WORKS_FOR]->(i181m_10_11)-[:IS_AT]->( mcmurdo_station),
+(wu_qian:Person_USAP {name:'Wu, Quian')-[:WORKS_FOR]->(a132p_10_11)-[:IS_AT]->( palmer_station),
+(wyatt_michael:Person_USAP {name:'Wyatt, Michael')-[:WORKS_FOR]->(g440m_10_11)-[:IS_AT]->( mcmurdo_station),
+(yager_patricia:Person_USAP {name:'Yager, Patricia')-[:WORKS_FOR]->(b388n_10_11)-[:IS_AT]->( nbp_vessel),
+
+//Person_USAP works on EVENT 2011-2012 at LOCATION
+
+CREATE
+( ainley_david)-[:WORKS_ON]->(b031m_11_12)-[:AT]->(mcmurdo_station),
+( anandakrishnan_sridhar)-[:WORKS_ON]->(c520m_11_12)-[:AT]->(mcmurdo_station),
+
+( barrett_john)-[:WORKS_ON]->(B508M)-[:OCCURS_IN]->(y2011_2012),
+( barwick_steven)-[:WORKS_ON]->(A127M)-[:OCCURS_IN]->(y2011_2012),
+(A127M)-[:OCCURS_IN]->(y2012_2013),
+( bentley_charles)-[:WORKS_ON]->(T350M)-[:OCCURS_IN]->(y2011_2012),
+( bieber_john)-[:WORKS_ON]->(A120M)-[:OCCURS_IN]->(y2011_2012),
+(A120M)-[:OCCURS_IN]->(y2012_2013),
+( bindschadler_robert)-[:WORKS_ON]->(C407M)-[:OCCURS_IN]->(y2011_2012),
+( bockheim_james)-[:WORKS_ON]->(G239P)-[:OCCURS_IN]->(y2011_2012),
+( bowser_samuel)-[:WORKS_ON]->(B043M)-[:OCCURS_IN]->(y2011_2012),
+( bristow_william)-[:WORKS_ON]->(A369M_S)-[:OCCURS_IN]->(y2011_2012),
+(A369M_S)-[:OCCURS_IN]->(y2012_2013),
+( carlstrom_john)-[:WORKS_ON]->(A370S)-[:OCCURS_IN]->(y2011_2012),
+( carlstrom_john)-[:WORKS_ON]->(A379S)-[:OCCURS_IN]->(y2011_2012),
+(A379S)-[:OCCURS_IN]->(y2012_2013),
+( cassar_nicolas)-[:WORKS_ON]->(O405L)-[:OCCURS_IN]->(y2011_2012),
+( chereskin_teresa)-[:WORKS_ON]->(O313N)-[:OCCURS_IN]->(y2011_2012),
+( chereskin_teresa)-[:WORKS_ON]->(O317L_N)-[:OCCURS_IN]->(y2011_2012),
+( chu_xinzhao)-[:WORKS_ON]->(A130M)-[:OCCURS_IN]->(y2011_2012),
+(A130M)-[:OCCURS_IN]->(y2012_2013),
+( clauer_c_robert)-[:WORKS_ON]->(A106M_S)-[:OCCURS_IN]->(y2012_2013),
+( conway_howard)-[:WORKS_ON]->(I209M)-[:OCCURS_IN]->(y2011_2012),
+( cottle_john)-[:WORKS_ON]->(G064M)-[:OCCURS_IN]->(y2011_2012),
+( emslie_steven)-[:WORKS_ON]->(DB034E_M)-[:OCCURS_IN]->(y2011_2012),
+( engebretson_mark)-[:WORKS_ON]->(A102M_S)-[:OCCURS_IN]->(y2011_2012),
+(A102M_S)-[:OCCURS_IN]->(y2012_2013),
+( evenson_paul)-[:WORKS_ON]->(A120M)-[:OCCURS_IN]->(y2011_2012),
+( evenson_paul)-[:WORKS_ON]->(A118S)-[:OCCURS_IN]->(y2011_2012),
+(A118S)-[:OCCURS_IN]->(y2012_2013),
+( devlin_mark)-[:WORKS_ON]->(A147M)-[:OCCURS_IN]->(y2012_2013),
+( foreman_christine)-[:WORKS_ON]->(B046M)-[:OCCURS_IN]->(y2011_2012),
+( fountain_andrew)-[:WORKS_ON]->(B504M)-[:OCCURS_IN]->(y2011_2012),
+( fraser_bill)-[:WORKS_ON]->(B013L_P)-[:OCCURS_IN]->(y2011_2012),
+( garrott_robert)-[:WORKS_ON]->(B009M)-[:OCCURS_IN]->(y2011_2012),
+( gill_john)-[:WORKS_ON]->(A336P),
+( gogineni_prasad)-[:WORKS_ON]->(I189M)-[:OCCURS_IN]->(y2011_2012),
+( gogineni_prasad)-[:WORKS_ON]->(I185M)-[:OCCURS_IN]->(y2011_2012),
+( halzen_francis)-[:WORKS_ON]->(A333S)-[:OCCURS_IN]->(y2011_2012),
+(A333S)-[:OCCURS_IN]->(y2012_2013),
+( hanany_shaul)-[:WORKS_ON]->(A146M)-[:OCCURS_IN]->(y2012_2013),
+( harvey_ralph)-[:WORKS_ON]->(G058M)-[:OCCURS_IN]->(y2011_2012),
+( hernandez_gonzalo)-[:WORKS_ON]->(A110M_S)-[:OCCURS_IN]->(y2011_2012),
+(A107M_S)-[:OCCURS_IN]->(y2012_2013),
+( hofmann_gretchen)-[:WORKS_ON]->(B134M)-[:OCCURS_IN]->(y2011_2012),
+( inan_umran)-[:WORKS_ON]->(A336P)-[:OCCURS_IN]->(y2011_2012),
+( johns_bjorn)-[:WORKS_ON]->(T295M)-[:OCCURS_IN]->(y2011_2012),
+( karle_albrecht)-[:WORKS_ON]->(A107S)-[:OCCURS_IN]->(y2011_2012),
+(A107S)-[:OCCURS_IN]->(y2012_2013),
+( kemerait_robert)-[:WORKS_ON]->(G078M)-[:OCCURS_IN]->(y2011_2012),
+( kennicutt_mahlon)-[:WORKS_ON]->(B518M)-[:OCCURS_IN]->(y2011_2012),
+( kovac_john)-[:WORKS_ON]->(A039S)-[:OCCURS_IN]->(y2011_2012),
+(A039S)-[:OCCURS_IN]->(y2012_2013),
+( kulesa_craig)-[:WORKS_ON]->(A364S)-[:OCCURS_IN]->(y2011_2012),
+(A364S)-[:OCCURS_IN]->(y2012_2013),
+( kyle_phillip)-[:WORKS_ON]->(G081M)-[:OCCURS_IN]->(y2011_2012),
+( labelle_janes)-[:WORKS_ON]->(A125S)-[:OCCURS_IN]->(y2012_2013),
+( labelle_james)-[:WORKS_ON]->(A128S)-[:OCCURS_IN]->(y2011_2012),
+(A128S)-[:OCCURS_IN]->(y2012_2013),
+( lazzara_matt)-[:WORKS_ON]->(O283M_S)-[:OCCURS_IN]->(y2011_2012),
+( lee_richard)-[:WORKS_ON]->(B256P)-[:OCCURS_IN]->(y2011_2012),
+( lyons_w_berry)-[:WORKS_ON]->(B509M)-[:OCCURS_IN]->(y2011_2012),
+( martinson_doug)-[:WORKS_ON]->(B021L)-[:OCCURS_IN]->(y2011_2012),
+( mayewski_paul)-[:WORKS_ON]->(I173M)-[:OCCURS_IN]->(y2011_2012),
+( mcknight_diane)-[:WORKS_ON]->(B506M)-[:OCCURS_IN]->(y2011_2012),
+( mitchell_john)-[:WORKS_ON]->(A142M)-[:OCCURS_IN]->(y2012_2013),
+( moore_anna)-[:WORKS_ON]->(A356S)-[:OCCURS_IN]->(y2012_2013),
+( moore_robert)-[:WORKS_ON]->(A109M_P_S)-[:OCCURS_IN]->(y2011_2012),
+(A109M_P_S)-[:OCCURS_IN]->(y2012_2013),
+( morin_paul)-[:WORKS_ON]->(T434M_P)-[:OCCURS_IN]->(y2011_2012),
+( naveen_ron)-[:WORKS_ON]->(B044E)-[:OCCURS_IN]->(y2011_2012),
+( parker_timothy)-[:WORKS_ON]->(T299M)-[:OCCURS_IN]->(y2011_2012),
+( place_sean)-[:WORKS_ON]->(B199M)-[:OCCURS_IN]->(y2011_2012),
+( priscu_john)-[:WORKS_ON]->(B505M)-[:OCCURS_IN]->(y2011_2012),
+( pryke_clement)-[:WORKS_ON]->(A149S)-[:OCCURS_IN]->(y2011_2012),
+(A149S)-[:OCCURS_IN]->(y2012_2013),
+( putkonen_jaakko)-[:WORKS_ON]->(G501M)-[:OCCURS_IN]->(y2011_2012),
+( rack_frank)-[:WORKS_ON]->(C524M)-[:OCCURS_IN]->(y2011_2012),
+( severinghaus_jeffrey)-[:WORKS_ON]->(I476M)-[:OCCURS_IN]->(y2011_2012),
+( sprintall_janet)-[:WORKS_ON]->(O260L)-[:OCCURS_IN]->(y2011_2012),
+( steffen_konrad)-[:WORKS_ON]->(I077E)-[:OCCURS_IN]->(y2011_2012),
+( steinberg_deborah)-[:WORKS_ON]->(B020L_P)-[:OCCURS_IN]->(y2011_2012),
+( stepp_bill)-[:WORKS_ON]->(A145M)-[:OCCURS_IN]->(y2011_2012),
+(A145M)-[:OCCURS_IN]->(y2012_2013),
+( sweeney_colm)-[:WORKS_ON]->(O214L)-[:OCCURS_IN]->(y2011_2012),
+( szuberla_curt)-[:WORKS_ON]->(T396M)-[:OCCURS_IN]->(y2011_2012),
+( taylor_kendrick)-[:WORKS_ON]->(I477M)-[:OCCURS_IN]->(y2011_2012),
+( taylor_michael)-[:WORKS_ON]->(A119M_S)-[:OCCURS_IN]->(y2011_2012),
+( taylor_michael)-[:WORKS_ON]->(A119M_S_XX)-[:OCCURS_IN]->(y2011_2012),
+( thoman_bruce)-[:WORKS_ON]->(T927M)-[:OCCURS_IN]->(y2011_2012),
+( wall_diana)-[:WORKS_ON]->(B507M)-[:OCCURS_IN]->(y2011_2012),
+( weatherwax_allan)-[:WORKS_ON]->(A112M)-[:OCCURS_IN]->(y2011_2012),
+(A112M)-[:OCCURS_IN]->(y2012_2013),
+( weatherwax_allan)-[:WORKS_ON]->(A111M_S)-[:OCCURS_IN]->(y2011_2012),
+(A111M_S)-[:OCCURS_IN]->(y2012_2013),
+( wilson_terry)-[:WORKS_ON]->(G079M)-[:OCCURS_IN]->(y2011_2012),
+( wu_qian)-[:WORKS_ON]->(A132P)-[:OCCURS_IN]->(y2011_2012),
+(A132P)-[:OCCURS_IN]->(y2012_2013),
+( zesta_eftyhia)-[:WORKS_ON]->(A357M)-[:OCCURS_IN]->(y2011_2012)
+
+
+//Person_USAP works on EVENT 2012-2013 at LOCATION
+
+
+
+
+
+//EVENT 2000/2001 is part of the GROUP which is an instance of this CATEGORY
+
+//EVENT 2001/2002 is part of the GROUP which is an instance of this CATEGORY
+
+//EVENT 2002/2003 is part of the GROUP which is an instance of this CATEGORY
+
+//EVENT 2003/2004 is part of the GROUP which is an instance of this CATEGORY
+
+//EVENT 2004/2005 is part of the GROUP which is an instance of this CATEGORY
+
+//EVENT 2005/2006 is part of the GROUP which is an instance of this CATEGORY
+
+//EVENT 2006/2007 is part of the GROUP which is an instance of this CATEGORY
+
+//EVENT 2007/2008 is part of the GROUP which is an instance of this CATEGORY
+
+//EVENT 2008/2009 is part of the GROUP which is an instance of this CATEGORY
+
+//EVENT 2009/2010 is part of the GROUP which is an instance of this CATEGORY
+
+//EVENT 2010/2011 is part of the GROUP which is an instance of this CATEGORY
+
+CREATE
+( o269o_10_11)-[:IS_GROUP]->(o269o:Group {name: "O-269-O"})-[:IS_CATEGORY]->( o_oceans_and_atmospheric_sciences),
+( b031m_10_11)-[:IS_GROUP]->(b031m:Group {name: "B-031-M"})-[:IS_CATEGORY]->( b_organisms_and_ecosystems)
+
+//EVENT 2011/2012 is part of the GROUP which is an instance of this CATEGORY
+
+//EVENT 2012/2013 is part of the GROUP which is an instance of this CATEGORY
+
+// CREATE (Event)-[:IS_YEAR]->(Field Season)
+
+( fs_2000-2001 {name: 'USAP Field Season 2000-2001'}),
+( fs_2001-2002 {name: 'USAP Field Season 2001-2002'}),
+( fs_2002-2003 {name: 'USAP Field Season 2002-2003'}),
+( fs_2003-2004 {name: 'USAP Field Season 2003-2004'}),
+( fs_2004-2005 {name: 'USAP Field Season 2004-2005'}),
+( fs_2005-2006 {name: 'USAP Field Season 2005-2006'}),
+( fs_2006-2007 {name: 'USAP Field Season 2006-2007'}),
+( fs_2008-2009 {name: 'USAP Field Season 2007-2008'}),
+( fs_2009-2010 {name: 'USAP Field Season 2009-2012'}),
+( fs_2010-2011 {name: 'USAP Field Season 2010-2011'}),
+( fs_2011-2012 {name: 'USAP Field Season 2011-2012'}),
+( fs_2012-2013 {name: 'USAP Field Season 2012-2013'})
+
+//CREATE (Event)-[:IS_FUNDED]->(Institute)-[:IS_TYPE]->(Institute Type)
+
+
+;
