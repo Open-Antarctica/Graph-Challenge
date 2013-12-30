@@ -99,7 +99,7 @@
 ( rupper_summer:Researcher { name: 'Rupper, Summer' }),
 ( sanders_robert:Researcher { name: 'Sanders, Robert' }),
 ( scambos_theodore:Researcher { name: 'Scambos, Theodore' }),
-( seo_eun-suk:Researcher { name: 'Seo, Eun-Suk' }),
+( seo_eun_suk:Researcher { name: 'Seo, Eun-Suk' }),
 ( shore_patrick:Researcher { name: 'Shore, Patrick' }),
 ( sivjee_gulamabas:Researcher { name: 'Sivjee, Gulamabas' }),
 ( sletten_ronald:Researcher { name: 'Sletten, Ronald' }),

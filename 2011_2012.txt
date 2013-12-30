@@ -1,0 +1,74 @@
+Ainley, David	External Non U.S. Government Site	B-031-M	Adelie Penguin response to climate change at the individual, colony and metapopulation levels
+Anandakrishnan, Sridhar	External Non U.S. Government Site	C-520-M	WISSARD surface geophysics
+Ashworth, Allan	External Non U.S. Government Site	G-294-M	Collaborative Research: Integrating geomorphological and paleoecological studies to reconstruct Neogene environments of the Transantarctic Mountains
+Barrett, John	External Non U.S. Government Site	B-508-M	McMurdo LTER - Landscape Ecology: Increased connectivity in a polar desert resulting from climate warming: McMurdo Dry Valley LTER Program
+Barwick, Steven	External Non U.S. Government Site	A-127-M	Development of hexagonal radio array for the ARIANNA ultra-high energy neutrino detector
+Bentley, Charles	External Non U.S. Government Site	T-350-M	Ice Coring and Drilling Services (ICDS) support for WAIS Divide
+Bieber, John	External Non U.S. Government Site	A-120-M	Cosmic ray observations at McMurdo Station
+Bindschadler, Robert	External U.S. Government Site	C-407-M	IPY: Collaborative Research: Ocean-ice sheet interaction in the Amundsen Sea: The keystone of West Antarctic stability
+Bockheim, James	External Non U.S. Government Site	G-239-P	Impact of recent climate warming on active-layer dynamics, permafrost, and soil properties on the western Antarctic Peninsula
+Bowser, Samuel	External Non U.S. Government Site	B-043-M	Evolution and diversity of Antarctic Rhizarian Protists
+Bristow, William	External Non U.S. Government Site	A-369-M/S	McMurdo and South Pole SuperDARN: Investigation of the ionospheric dynamics and magnetosphere-ionosphere coupling in Antarctica
+Carlstrom, John	External Non U.S. Government Site	A-370-S	Science Coordination Office for Astrophysical Research in Antarctica (SCOARA-II)
+Carlstrom, John	External Non U.S. Government Site	A-379-S	Cosmological Research with the 10-meter South Pole Telescope
+Cassar, Nicolas	External Non U.S. Government Site	O-405-L	Physiological and ecosystem structure forcings on carbon fluxes in the Southern Ocean mixed layer
+Chereskin, Teresa	External Non U.S. Government Site	O-313-N	Collaborative research: Dynamics and transport of the Antarctic Circumpolar Current in the Drake Passage
+Chereskin, Teresa	External Non U.S. Government Site	O-317-L/N	Collaborative research: Southern Ocean current observations from the U.S. Antarctic research vessels
+Chu, Xinzhao	External Non U.S. Government Site	A-130-M	Lidar Investigation of middle and upper atmosphere temperature, composition, chemistry, and dynamics at McMurdo, Antarctica
+Conway, Howard	External Non U.S. Government Site	I-209-M	Deglaciation of the Ross Sea Embayment - constraints from Roosevelt Island
+Cottle, John	External Non U.S. Government Site	G-064-M	Exploring the significance of NA-alkaline magmatism in subduction systems, a case study from the Ross Orogen
+Emslie, Steven D	External Non U.S. Government Site	B-034-E/M	Stable isotope analyses of pygoscelid penguin remains from active and abandoned colonies in Antarctica
+Engebretson, Mark J	External Non U.S. Government Site	A-102-M/S	Studies of solar wind - Magnetosphere interactions using observations of ULF waves at an extensive ground array at high latitudes
+Evenson, Paul	External Non U.S. Government Site	A-120-M	Cosmic ray observations at McMurdo Station
+Evenson, Paul	External Non U.S. Government Site	A-118-S	Element composition of high-energy solar particles
+Foreman, Christine	External Non U.S. Government Site	B-046-M	The biogeochemical evolution of dissolved organic matter in a fluvial system on the Cotton Glacier, Antarctica
+Fountain, Andrew	External Non U.S. Government Site	B-504-M	McMurdo LTER - Glaciers: Increased connectivity in a polar desert resulting from climate warming: McMurdo Dry Valleys LTER Program
+Fraser, Bill	External Non U.S. Government Site	B-013-L/P	Palmer Long Term Ecological Research (LTER): Looking back in time through marine ecosystem space, apex predator component
+Garrott, Robert	External Non U.S. Government Site	B-009-M	The demographic consequences of environmental variability and individual heterogeneity in life-history tactics of a long-lived Antarctic marine predator
+Gogineni, Prasad	External Non U.S. Government Site	I-189-M	Center for Remote Sensing of Ice Sheets (CReSIS) - Basler airborne radar survey
+Gogineni, Prasad	External Non U.S. Government Site	I-185-M	Center for Remote Sensing of Ice Sheets (CReSIS) - Unmanned Aerial System (UAS) operations
+Halzen, Francis	External Non U.S. Government Site	A-333-S	IceCube operations and maintenance
+Harvey, Ralph	External Non U.S. Government Site	G-058-M	Antarctic Search for Meteorites (ANSMET)
+Hernandez, Gonzalo	External Non U.S. Government Site	A-110-M/S	Austral high-latitude atmospheric dynamics
+Hofmann, Gretchen	External Non U.S. Government Site	B-134-M	Ocean acidification: Integrated approaches to understanding effects on antarctic sea urchins, Sterechinus neumayeri
+Inan, Umran	External Non U.S. Government Site	A-336-P	ELF/VLF observation of whistler-mode waves, lightning discharge, and gamma-ray events from Palmer Station
+Johns, Bjorn	External Non U.S. Government Site	T-295-M	UNAVCO GPS survey support
+Karle, Albrecht	External Non U.S. Government Site	A-107-S	Collaborative Research: MRI-R2 instrument development of the Askaryan Radio Array, a large-scale radio Cherenkov neutrino detector at the South Pole
+Kemerait, Robert	External Non U.S. Government Site	G-078-M	Dry Valley seismic project
+Kennicutt, Mahlon	External Non U.S. Government Site	B-518-M	Temporal variability in natural and anthropogenic disturbance of McMurdo Station
+Kovac, John	External Non U.S. Government Site	A-039-S	Collaborative Research: BICEP2 and SPUD - A search for inflation with degree-scale polarimetry from the South Pole
+Kulesa, Craig	External Non U.S. Government Site	A-364-S	High Elevation Antarctic Terahertz (HEAT) telescopes for Dome A and Ridge A
+Kyle, Phillip	External Non U.S. Government Site	G-081-M	Mount Erebus Volcano Observatory III (MEVO III): Conduit processes and surveillance
+LaBelle, James	External Non U.S. Government Site	A-128-S	Outstanding Questions on Auroral Radiation Fine Structure
+Lazzara, Matt	External Non U.S. Government Site	O-283-M/S	Antarctic Automatic Weather Station (AWS) program
+Lee, Richard	External Non U.S. Government Site	B-256-P	Role of dehydration and photoperiodism in preparing an Antarctic insect for the polar night
+Lyons, W. Berry	External Non U.S. Government Site	B-509-M	McMurdo LTER - Geochemistry: Increased connectivity in a polar desert resulting from climate warming: McMurdo Dry Valley LTER Program
+Martinson, Doug	External Non U.S. Government Site	B-021-L	Palmer Long Term Ecological Research (LTER): Looking back in time through marine ecosystem space, physical oceanography component
+Mayewski, Paul	External Non U.S. Government Site	I-173-M	Roosevelt Island Climate Evolution (RICE) project
+McKnight, Diane	External Non U.S. Government Site	B-506-M	McMurdo LTER - Streams: Increased connectivity in a polar desert resulting from climate warming: McMurdo Dry Valley LTER Program
+Moore, Robert C	External Non U.S. Government Site	A-109-M/P/S	Collaborative Research: Antarctic ELF/VLF observations of lightning and lightning-induced electron precipitation
+Morin, Paul	External Non U.S. Government Site	T-434-M/P	The Polar Geospatial Information Center: Joint support
+Naveen, Ron	External Non U.S. Government Site	B-044-E	Collaborative Research: Multispecies, multi-scale investigations of long-term changes in penguin and seabird populations on the Antarctic Peninsula
+Parker, Timothy	External Non U.S. Government Site	T-299-M	IRIS/PASSCAL seismic support
+Place, Sean	External Non U.S. Government Site	B-199-M	Ocean acidification–category 1: Identifying adaptive responses of polar fishes in a vulnerable ecosystem
+Priscu, John	External Non U.S. Government Site	B-505-M	McMurdo LTER - Lakes: Increased connectivity in a polar desert resulting from climate warming: McMurdo Dry Valley LTER Program
+Pryke, Clement	External Non U.S. Government Site	A-149-S	Collaborative Research: BICEP2 and SPUD - A search for inflation with degree-scale polarimetry from the South Pole
+Putkonen, Jaakko	External Non U.S. Government Site	G-501-M	Systematic analysis of the stability and ages of soil surfaces in Transantarctic Mountains
+Rack, Frank	External Non U.S. Government Site	C-524-M	WISSARD borehole drill contractor
+Severinghaus, Jeffrey	External Non U.S. Government Site	I-476-M	Collaborative Research: Replicate coring at WAIS Divide to obtain additional samples at events of high scientific interest
+Sprintall, Janet	External Non U.S. Government Site	O-260-L	The Drake Passage high-density XBT/XCTD program
+Steffen, Konrad	External Non U.S. Government Site	I-077-E	IPY: Stability of Larsen C Ice Shelf in a warming climate
+Steinberg, Deborah	External Non U.S. Government Site	B-020-L/P	Palmer Long Term Ecological Research (LTER): Looking back in time through marine ecosystem space, zooplankton component
+Stepp, Bill	External U.S. Government Site	A-145-M	NASA Long Duration Balloon (LDB) support program
+Sweeney, Colm	External Non U.S. Government Site	O-214-L	Collaborative research: Biogeochemical controls of the oxygen and carbon system in the Drake Passage
+Szuberla, Curt	External Non U.S. Government Site	T-396-M	Operation and maintenance of a CTBT class infrasound array at Windless Bight
+Taylor, Kendrick	External Non U.S. Government Site	I-477-M	WAIS Divide Science Coordination Office (SCO)
+Taylor, Michael	External Non U.S. Government Site	A-119-M/S	Investigating wave-driven mesospheric dynamics over South Pole using an advanced mesospheric temperature mapper
+Taylor, Michael	External Non U.S. Government Site	A-119-M/S	Development of an ANtarctic Gravity Wave Imager Network (ANGWIN) for collaborative mesospheric research
+Thoman, Bruce	External U.S. Government Site	T-927-M	NASA/McMurdo Ground Station (MG1)
+Wall, Diana	External Non U.S. Government Site	B-507-M	McMurdo LTER - Soils: Increased connectivity in a polar desert resulting from climate warming: McMurdo Dry Valley LTER Program
+Weatherwax, Allan T	External Non U.S. Government Site	A-112-M	Polar experiment network for geospace upper-atmosphere investigations: PENGUIn - A high-latitude window to geospace dynamics
+Weatherwax, Allan T	External Non U.S. Government Site	A-111-M/S	Studies of the polar Ionosphere and Magnetosphere from measurements in Antarctica
+Wilson, Terry	External Non U.S. Government Site	G-079-M	Collaborative research, IPY POLENET-Antarctica: Investigating links between geodynamics and ice sheets
+Wu, Qian	External Non U.S. Government Site	A-132-P	Thermospheric neutral wind observation in the Antarctica Peninsula
+Zesta, Eftyhia	External Non U.S. Government Site	A-357-M	South American Meridional B-Field Array (SAMBA): An American-Chilean chain

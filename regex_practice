@@ -1,0 +1,228 @@
+//Names
+
+(ainley_david { name: 'Ainley, David' }),
+(anandakrishnan_sridhar { name: 'Anandakrishnan, Sridhar' }),
+(ashworth_allan { name: 'Ashworth, Allan' }),
+(barrett_john { name: 'Barrett, John' }),
+(barwick_steven { name: 'Barwick, Steven' }),
+(bentley_charles { name: 'Bentley, Charles' }),
+(bieber_john { name: 'Bieber, John' }),
+(bindschadler_robert { name: 'Bindschadler, Robert' }),
+(bockheim_james { name: 'Bockheim, James' }),
+(bowser_samuel { name: 'Bowser, Samuel' }),
+(bristow_william { name: 'Bristow, William' }),
+(carlstrom_john { name: 'Carlstrom, John' }),
+(carlstrom_john { name: 'Carlstrom, John' }),
+(cassar_nicolas { name: 'Cassar, Nicolas' }),
+(chereskin_teresa { name: 'Chereskin, Teresa' }),
+(chereskin_teresa { name: 'Chereskin, Teresa' }),
+(chu_xinzhao { name: 'Chu, Xinzhao' }),
+(conway_howard { name: 'Conway, Howard' }),
+(cottle_john { name: 'Cottle, John' }),
+(emslie_steven_d { name: 'Emslie, Steven D' }),
+(engebretson_mark_j { name: 'Engebretson, Mark J' }),
+(evenson_paul { name: 'Evenson, Paul' }),
+(evenson_paul { name: 'Evenson, Paul' }),
+(foreman_christine { name: 'Foreman, Christine' }),
+(fountain_andrew { name: 'Fountain, Andrew' }),
+(fraser_bill { name: 'Fraser, Bill' }),
+(garrott_robert { name: 'Garrott, Robert' }),
+(gogineni_prasad { name: 'Gogineni, Prasad' }),
+(gogineni_prasad { name: 'Gogineni, Prasad' }),
+(halzen_francis { name: 'Halzen, Francis' }),
+(harvey_ralph { name: 'Harvey, Ralph' }),
+(hernandez_gonzalo { name: 'Hernandez, Gonzalo' }),
+(hofmann_gretchen { name: 'Hofmann, Gretchen' }),
+(inan_umran { name: 'Inan, Umran' }),
+(johns_bjorn { name: 'Johns, Bjorn' }),
+(karle_albrecht { name: 'Karle, Albrecht' }),
+(kemerait_robert { name: 'Kemerait, Robert' }),
+(kennicutt_mahlon { name: 'Kennicutt, Mahlon' }),
+(kovac_john { name: 'Kovac, John' }),
+(kulesa_craig { name: 'Kulesa, Craig' }),
+(kyle_phillip { name: 'Kyle, Phillip' }),
+(labelle_james { name: 'Labelle, James' }),
+(lazzara_matt { name: 'Lazzara, Matt' }),
+(lee_richard { name: 'Lee, Richard' }),
+(lyons_w._berry { name: 'Lyons, W. Berry' }),
+(martinson_doug { name: 'Martinson, Doug' }),
+(mayewski_paul { name: 'Mayewski, Paul' }),
+(mcknight_diane { name: 'Mcknight, Diane' }),
+(moore_robert_c { name: 'Moore, Robert C' }),
+(morin_paul { name: 'Morin, Paul' }),
+(naveen_ron { name: 'Naveen, Ron' }),
+(parker_timothy { name: 'Parker, Timothy' }),
+(place_sean { name: 'Place, Sean' }),
+(priscu_john { name: 'Priscu, John' }),
+(pryke_clement { name: 'Pryke, Clement' }),
+(putkonen_jaakko { name: 'Putkonen, Jaakko' }),
+(rack_frank { name: 'Rack, Frank' }),
+(severinghaus_jeffrey { name: 'Severinghaus, Jeffrey' }),
+(sprintall_janet { name: 'Sprintall, Janet' }),
+(steffen_konrad { name: 'Steffen, Konrad' }),
+(steinberg_deborah { name: 'Steinberg, Deborah' }),
+(stepp_bill { name: 'Stepp, Bill' }),
+(sweeney_colm { name: 'Sweeney, Colm' }),
+(szuberla_curt { name: 'Szuberla, Curt' }),
+(taylor_kendrick { name: 'Taylor, Kendrick' }),
+(taylor_michael { name: 'Taylor, Michael' }),
+(taylor_michael { name: 'Taylor, Michael' }),
+(thoman_bruce { name: 'Thoman, Bruce' }),
+(wall_diana { name: 'Wall, Diana' }),
+(weatherwax_allan_t { name: 'Weatherwax, Allan T' }),
+(weatherwax_allan_t { name: 'Weatherwax, Allan T' }),
+(wilson_terry { name: 'Wilson, Terry' }),
+(wu_qian { name: 'Wu, Qian' }),
+(zesta_eftyhia { name: 'Zesta, Eftyhia' }),
+
+//Projects
+ainley, david b-031-m external Adelie Penguin response to climate change at the individual, colony and metapopulation levels
+anandakrishnan, sridhar c-520-M External WISSARD surface geophysics
+ashworth, allan g-294-m external Collaborative Research: Integrating geomorphological and paleoecological studies to reconstruct Neogene environments of the Transantarctic Mountains
+barrett, john b-508-m external McMurdo LTER - Landscape Ecology: Increased connectivity in a polar desert resulting from climate warming: McMurdo Dry Valley LTER Program
+barwick, steven a-127-m external Development of hexagonal radio array for the ARIANNA ultra-high energy neutrino detector
+bentley, charles t-350-m external Ice Coring and Drilling Services (ICDS) support for WAIS Divide
+bieber, john a-120-m external Cosmic ray observations at McMurdo Station
+bindschadler, robert c-407-m External U.S. Government Site IPY: Collaborative Research: Ocean-ice sheet interaction in the Amundsen Sea: The keystone of West Antarctic stability
+bockheim, james g-239-p external Impact of recent climate warming on active-layer dynamics, permafrost, and soil properties on the western Antarctic Peninsula
+bowser, samuel b-043-m external Evolution and diversity of Antarctic Rhizarian Protists
+bristow, william a-369-m/s external McMurdo and South Pole SuperDARN: Investigation of the ionospheric dynamics and magnetosphere-ionosphere coupling in Antarctica
+carlstrom, john a-370-s external Science Coordination Office for Astrophysical Research in Antarctica (SCOARA-II)
+carlstrom, john a-379-s external Cosmological Research with the 10-meter South Pole Telescope
+cassar, nicolas o-405-l external Physiological and ecosystem structure forcings on carbon fluxes in the Southern Ocean mixed layer
+chereskin, teresa o-313-n external Collaborative research: Dynamics and transport of the Antarctic Circumpolar Current in the Drake Passage
+chereskin, teresa o-317-l/n External Collaborative research: Southern Ocean current observations from the U.S. Antarctic research vessels
+chu, xinzhao a-130-m external Lidar Investigation of middle and upper atmosphere temperature, composition, chemistry, and dynamics at McMurdo, Antarctica
+conway, howard i-209-m external Deglaciation of the Ross Sea Embayment - constraints from Roosevelt Island
+cottle, john g-064-m external Exploring the significance of NA-alkaline magmatism in subduction systems, a case study from the Ross Orogen
+emslie, steven d b-034-e/m external Stable isotope analyses of pygoscelid penguin remains from active and abandoned colonies in Antarctica
+engebretson, mark j a-102-m/S External Studies of solar wind - Magnetosphere interactions using observations of ULF waves at an extensive ground array at high latitudes
+evenson, paul a-120-m external Cosmic ray observations at McMurdo Station
+evenson, paul a-118-s external Element composition of high-energy solar particles
+foreman, christine b-046-m external The biogeochemical evolution of dissolved organic matter in a fluvial system on the Cotton Glacier, Antarctica
+fountain, andrew b-504-m external McMurdo LTER - Glaciers: Increased connectivity in a polar desert resulting from climate warming: McMurdo Dry Valleys LTER Program
+fraser, bill b-013-l/p external Palmer Long Term Ecological Research (LTER): Looking back in time through marine ecosystem  , apex predator component
+garrott, robert b-009-m external The demographic consequences of environmental variability and individual heterogeneity in life-history tactics of a long-lived Antarctic marine predator
+gogineni, prasad i-189-m external Center for Remote Sensing of Ice Sheets (CReSIS) - Basler airborne radar survey
+gogineni, prasad i-185-m external Center for Remote Sensing of Ice Sheets (CReSIS) - Unmanned Aerial System (UAS) operations
+halzen, francis a-333-s external IceCube operations and maintenance
+harvey, ralph g-058-m external Antarctic Search for Meteorites (ANSMET)
+hernandez, gonzalo a-110-m/s External Austral high-latitude atmospheric dynamics
+hofmann, gretchen b-134-m external Ocean acidification: Integrated approaches to understanding effects on antarctic sea urchins, Sterechinus neumayeri
+inan, umran a-336-p external ELF/VLF observation of whistler-mode waves, lightning discharge, and gamma-ray events from Palmer Station
+johns, bjorn t-295-m external UNAVCO GPS survey support
+karle, albrecht a-107-s external Collaborative Research: MRI-R2 instrument development of the Askaryan Radio Array, a large-scale radio Cherenkov neutrino detector at the South Pole
+kemerait, robert g-078-m external Dry Valley seismic project
+kennicutt, mahlon b-518-m external Temporal variability in natural and anthropogenic disturbance of McMurdo Station
+kovac, john a-039-s external Collaborative Research: BICEP2 and SPUD - A search for inflation with degree-scale polarimetry from the South Pole
+kulesa, craig a-364-s external High Elevation Antarctic Terahertz (HEAT) telescopes for Dome A and Ridge A
+kyle, phillip g-081-m external Mount Erebus Volcano Observatory III (MEVO III): Conduit processes and surveillance
+labelle, james a-128-s external Outstanding Questions on Auroral Radiation Fine Structure
+lazzara, matt o-283-m/s external Antarctic Automatic Weather Station (AWS) program
+lee, richard b-256-p external Role of dehydration and photoperiodism in preparing an Antarctic insect for the polar night
+lyons, w. berry b-509-m external McMurdo LTER - Geochemistry: Increased connectivity in a polar desert resulting from climate warming: McMurdo Dry Valley LTER Program
+martinson, doug b-021-l external Palmer Long Term Ecological Research (LTER): Looking back in time through marine ecosystem  , physical oceanography component
+mayewski, paul i-173-m external Roosevelt Island Climate Evolution (RICE) project
+mcknight, diane b-506-m external McMurdo LTER - Streams: Increased connectivity in a polar desert resulting from climate warming: McMurdo Dry Valley LTER Program
+moore, robert c a-109-m/p/s External Collaborative Research: Antarctic ELF/VLF observations of lightning and lightning-induced electron precipitation
+morin, paul t-434-m/p external The Polar Geospatial Information Center: Joint support
+naveen, ron b-044-e external Collaborative Research: Multispecies, multi-scale investigations of long-term changes in penguin and seabird populations on the Antarctic Peninsula
+parker, timothy t-299-m external IRIS/PASSCAL seismic support
+place, sean b-199-m external Ocean acidification–category 1: Identifying adaptive responses of polar fishes in a vulnerable ecosystem
+priscu, john b-505-m external McMurdo LTER - Lakes: Increased connectivity in a polar desert resulting from climate warming: McMurdo Dry Valley LTER Program
+pryke, clement a-149-s external Collaborative Research: BICEP2 and SPUD - A search for inflation with degree-scale polarimetry from the South Pole
+putkonen, jaakko g-501-m external Systematic analysis of the stability and ages of soil surfaces in Transantarctic Mountains
+rack, frank c-524-m external WISSARD borehole drill contractor
+severinghaus, jeffrey i-476-m External Collaborative Research: Replicate coring at WAIS Divide to obtain additional samples at events of high scientific interest
+sprintall, janet o-260-l external The Drake Passage high-density XBT/XCTD program
+steffen, konrad i-077-e external IPY: Stability of Larsen C Ice Shelf in a warming climate
+steinberg, deborah b-020-l/p External Palmer Long Term Ecological Research (LTER): Looking back in time through marine ecosystem  , zooplankton component
+stepp, bill a-145-m external U.S. Government Site NASA Long Duration Balloon (LDB) support program
+sweeney, colm o-214-l external Collaborative research: Biogeochemical controls of the oxygen and carbon system in the Drake Passage
+szuberla, curt t-396-m external Operation and maintenance of a CTBT class infrasound array at Windless Bight
+taylor, kendrick i-477-m external WAIS Divide Science Coordination Office (SCO)
+taylor, michael a-119-m/s external Investigating wave-driven mesospheric dynamics over South Pole using an advanced mesospheric temperature mapper
+taylor, michael a-119-m/s external Development of an ANtarctic Gravity Wave Imager Network (ANGWIN) for collaborative mesospheric research
+thoman, bruce t-927-m external U.S. Government Site NASA/McMurdo Ground Station (MG1)
+wall, diana b-507-m external McMurdo LTER - Soils: Increased connectivity in a polar desert resulting from climate warming: McMurdo Dry Valley LTER Program
+weatherwax, allan t a-112-m External Polar experiment network for geo  upper-atmosphere investigations: PENGUIn - A high-latitude window to geo  dynamics
+weatherwax, allan t a-111-m/S External Studies of the polar Ionosphere and Magnetosphere from measurements in Antarctica
+wilson, terry g-079-m external Collaborative research, IPY POLENET-Antarctica: Investigating links between geodynamics and ice sheets
+wu, qian a-132-p external Thermospheric neutral wind observation in the Antarctica Peninsula
+zesta, eftyhia a-357-m external South American Meridional B-Field Array (SAMBA): An American-Chilean chain
+
+//Locations
+ainley, david b-031-m external Adelie Penguin response to climate change at the individual, colony and metapopulation levels
+anandakrishnan, sridhar c-520-M External WISSARD surface geophysics
+ashworth, allan g-294-m external Collaborative Research: Integrating geomorphological and paleoecological studies to reconstruct Neogene environments of the Transantarctic Mountains
+barrett, john b-508-m external McMurdo LTER - Landscape Ecology: Increased connectivity in a polar desert resulting from climate warming: McMurdo Dry Valley LTER Program
+barwick, steven a-127-m external Development of hexagonal radio array for the ARIANNA ultra-high energy neutrino detector
+bentley, charles t-350-m external Ice Coring and Drilling Services (ICDS) support for WAIS Divide
+bieber, john a-120-m external Cosmic ray observations at McMurdo Station
+bindschadler, robert c-407-m External U.S. Government Site IPY: Collaborative Research: Ocean-ice sheet interaction in the Amundsen Sea: The keystone of West Antarctic stability
+bockheim, james g-239-p external Impact of recent climate warming on active-layer dynamics, permafrost, and soil properties on the western Antarctic Peninsula
+bowser, samuel b-043-m external Evolution and diversity of Antarctic Rhizarian Protists
+bristow, william a-369-m/s external McMurdo and South Pole SuperDARN: Investigation of the ionospheric dynamics and magnetosphere-ionosphere coupling in Antarctica
+carlstrom, john a-370-s external Science Coordination Office for Astrophysical Research in Antarctica (SCOARA-II)
+carlstrom, john a-379-s external Cosmological Research with the 10-meter South Pole Telescope
+cassar, nicolas o-405-l external Physiological and ecosystem structure forcings on carbon fluxes in the Southern Ocean mixed layer
+chereskin, teresa o-313-n external Collaborative research: Dynamics and transport of the Antarctic Circumpolar Current in the Drake Passage
+chereskin, teresa o-317-l/n External Collaborative research: Southern Ocean current observations from the U.S. Antarctic research vessels
+chu, xinzhao a-130-m external Lidar Investigation of middle and upper atmosphere temperature, composition, chemistry, and dynamics at McMurdo, Antarctica
+conway, howard i-209-m external Deglaciation of the Ross Sea Embayment - constraints from Roosevelt Island
+cottle, john g-064-m external Exploring the significance of NA-alkaline magmatism in subduction systems, a case study from the Ross Orogen
+emslie, steven d b-034-e/m external Stable isotope analyses of pygoscelid penguin remains from active and abandoned colonies in Antarctica
+engebretson, mark j a-102-m/S External Studies of solar wind - Magnetosphere interactions using observations of ULF waves at an extensive ground array at high latitudes
+evenson, paul a-120-m external Cosmic ray observations at McMurdo Station
+evenson, paul a-118-s external Element composition of high-energy solar particles
+foreman, christine b-046-m external The biogeochemical evolution of dissolved organic matter in a fluvial system on the Cotton Glacier, Antarctica
+fountain, andrew b-504-m external McMurdo LTER - Glaciers: Increased connectivity in a polar desert resulting from climate warming: McMurdo Dry Valleys LTER Program
+fraser, bill b-013-l/p external Palmer Long Term Ecological Research (LTER): Looking back in time through marine ecosystem  , apex predator component
+garrott, robert b-009-m external The demographic consequences of environmental variability and individual heterogeneity in life-history tactics of a long-lived Antarctic marine predator
+gogineni, prasad i-189-m external Center for Remote Sensing of Ice Sheets (CReSIS) - Basler airborne radar survey
+gogineni, prasad i-185-m external Center for Remote Sensing of Ice Sheets (CReSIS) - Unmanned Aerial System (UAS) operations
+halzen, francis a-333-s external IceCube operations and maintenance
+harvey, ralph g-058-m external Antarctic Search for Meteorites (ANSMET)
+hernandez, gonzalo a-110-m/s External Austral high-latitude atmospheric dynamics
+hofmann, gretchen b-134-m external Ocean acidification: Integrated approaches to understanding effects on antarctic sea urchins, Sterechinus neumayeri
+inan, umran a-336-p external ELF/VLF observation of whistler-mode waves, lightning discharge, and gamma-ray events from Palmer Station
+johns, bjorn t-295-m external UNAVCO GPS survey support
+karle, albrecht a-107-s external Collaborative Research: MRI-R2 instrument development of the Askaryan Radio Array, a large-scale radio Cherenkov neutrino detector at the South Pole
+kemerait, robert g-078-m external Dry Valley seismic project
+kennicutt, mahlon b-518-m external Temporal variability in natural and anthropogenic disturbance of McMurdo Station
+kovac, john a-039-s external Collaborative Research: BICEP2 and SPUD - A search for inflation with degree-scale polarimetry from the South Pole
+kulesa, craig a-364-s external High Elevation Antarctic Terahertz (HEAT) telescopes for Dome A and Ridge A
+kyle, phillip g-081-m external Mount Erebus Volcano Observatory III (MEVO III): Conduit processes and surveillance
+labelle, james a-128-s external Outstanding Questions on Auroral Radiation Fine Structure
+lazzara, matt o-283-m/s external Antarctic Automatic Weather Station (AWS) program
+lee, richard b-256-p external Role of dehydration and photoperiodism in preparing an Antarctic insect for the polar night
+lyons, w. berry b-509-m external McMurdo LTER - Geochemistry: Increased connectivity in a polar desert resulting from climate warming: McMurdo Dry Valley LTER Program
+martinson, doug b-021-l external Palmer Long Term Ecological Research (LTER): Looking back in time through marine ecosystem  , physical oceanography component
+mayewski, paul i-173-m external Roosevelt Island Climate Evolution (RICE) project
+mcknight, diane b-506-m external McMurdo LTER - Streams: Increased connectivity in a polar desert resulting from climate warming: McMurdo Dry Valley LTER Program
+moore, robert c a-109-m/p/s External Collaborative Research: Antarctic ELF/VLF observations of lightning and lightning-induced electron precipitation
+morin, paul t-434-m/p external The Polar Geospatial Information Center: Joint support
+naveen, ron b-044-e external Collaborative Research: Multispecies, multi-scale investigations of long-term changes in penguin and seabird populations on the Antarctic Peninsula
+parker, timothy t-299-m external IRIS/PASSCAL seismic support
+place, sean b-199-m external Ocean acidification–category 1: Identifying adaptive responses of polar fishes in a vulnerable ecosystem
+priscu, john b-505-m external McMurdo LTER - Lakes: Increased connectivity in a polar desert resulting from climate warming: McMurdo Dry Valley LTER Program
+pryke, clement a-149-s external Collaborative Research: BICEP2 and SPUD - A search for inflation with degree-scale polarimetry from the South Pole
+putkonen, jaakko g-501-m external Systematic analysis of the stability and ages of soil surfaces in Transantarctic Mountains
+rack, frank c-524-m external WISSARD borehole drill contractor
+severinghaus, jeffrey i-476-m External Collaborative Research: Replicate coring at WAIS Divide to obtain additional samples at events of high scientific interest
+sprintall, janet o-260-l external The Drake Passage high-density XBT/XCTD program
+steffen, konrad i-077-e external IPY: Stability of Larsen C Ice Shelf in a warming climate
+steinberg, deborah b-020-l/p External Palmer Long Term Ecological Research (LTER): Looking back in time through marine ecosystem  , zooplankton component
+stepp, bill a-145-m external U.S. Government Site NASA Long Duration Balloon (LDB) support program
+sweeney, colm o-214-l external Collaborative research: Biogeochemical controls of the oxygen and carbon system in the Drake Passage
+szuberla, curt t-396-m external Operation and maintenance of a CTBT class infrasound array at Windless Bight
+taylor, kendrick i-477-m external WAIS Divide Science Coordination Office (SCO)
+taylor, michael a-119-m/s external Investigating wave-driven mesospheric dynamics over South Pole using an advanced mesospheric temperature mapper
+taylor, michael a-119-m/s external Development of an ANtarctic Gravity Wave Imager Network (ANGWIN) for collaborative mesospheric research
+thoman, bruce t-927-m external U.S. Government Site NASA/McMurdo Ground Station (MG1)
+wall, diana b-507-m external McMurdo LTER - Soils: Increased connectivity in a polar desert resulting from climate warming: McMurdo Dry Valley LTER Program
+weatherwax, allan t a-112-m External Polar experiment network for geo  upper-atmosphere investigations: PENGUIn - A high-latitude window to geo  dynamics
+weatherwax, allan t a-111-m/S External Studies of the polar Ionosphere and Magnetosphere from measurements in Antarctica
+wilson, terry g-079-m external Collaborative research, IPY POLENET-Antarctica: Investigating links between geodynamics and ice sheets
+wu, qian a-132-p external Thermospheric neutral wind observation in the Antarctica Peninsula
+zesta, eftyhia a-357-m external South American Meridional B-Field Array (SAMBA): An American-Chilean chain
