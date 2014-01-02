@@ -1,0 +1,64 @@
+Ainley, David 	B-031-M 	Adelie Penguin response to climate change at the individual, colony and metapopulation levels
+Albert, Mary 	I-155-M 	Norwegian-United States IPY Scientific Traverse: Climate variability and glaciology in East Antarctica
+Ashworth, Allan 	G-294-M 	Collaborative Research: Integrating geomorphological and paleoecological studies to reconstruct Neogene environments of the Transantarctic Mountains
+Barbeau, David L. 	G-432-E 	COLLABORATIVE RESEARCH: Testing the Polar Gateway Glaciation Hypothesis: the Kinematic, Sedimentary, Water-Mass, and Ice-Volume Record of Drake Passage Opening
+Bell, Robin E 	G-065-M 	Collaborative Research: GAMBIT: Gamburtsev aerogeophysical mapping of bedrock and ice targets
+Bieber, John 	A-120-M 	Cosmic ray observations at McMurdo Station
+Blankenship, Donald 	G-098-M 	IPY Research: Investigating the cryospheric evolution of the central Antarctic plate (ICECAP)
+Bowser, Samuel 	G-093-M 	Collaborative Research: Linking modern benthic communities and taphonomic processes to the stratigraphic record of Antarctic cores
+Carlstrom, John 	A-370-S 	Science Coordination Office for Astrophysical Research in Antarctica (SCOARA-II)
+Carlstrom, John 	A-379-S 	Cosmological Research with the 10-meter South Pole Telescope
+DeMaster, David 	B-237-L/N/P 	Collaborative research: Benthic faunal feeding dynamics on the Antarctic shelf and the effects of global climate change on bentho-pelagic coupling
+Domack, Eugene 	C-515-L 	Collaborative Research in IPY: Abrupt Environmental Change in the Larsen Ice Shelf System, a Multidisciplinary Approach - Marine and Quaternary Geosciences
+Doran, Peter 	B-426-M 	Role of resource legacy on contemporary linkages between biodiversity and ecosystem processes in a cold desert ecosystem: The McMurdo Dry Valley LTER program
+Emslie, Steven D 	B-034-E 	Stable isotope analyses of pygoscelid penguin remains from active and abandoned colonies in Antarctica
+Evenson, Paul 	A-333-S 	IceCube operations and maintenance
+Fountain, Andrew 	B-425-M 	Role of resource legacy on contemporary linkages between biodiversity and ecosystem processes in a cold desert ecosystem: The McMurdo Dry Valleys LTER program
+Fraser, Bill 	B-013-L/P 	Palmer Long Term Ecological Research (LTER): Looking back in time through marine ecosystem space, apex predator component
+Garrott, Robert 	B-009-M 	The demographic consequences of environmental variability and individual heterogeneity in life-history tactics of a long-lived Antarctic marine predator
+Gogineni, Prasad 	I-189-M 	Center for Remote Sensing of Ice Sheets (CReSIS) - Basler airborne radar survey
+Gogineni, Prasad 	I-188-M 	Center for Remote Sensing of Ice Sheets (CReSIS) - ground radar and seismic operations
+Gorham, Peter W 	A-142-M 	Antarctic Impulsive Transient Antenna (ANITA)
+Hernandez, Gonzalo 	A-110-M/S 	Austral high-latitude atmospheric dynamics
+Inan, Umran 	A-108-S 	A VLF beacon transmitter at South Pole
+Inan, Umran 	A-327-N 	ELF/VLF observation in the southern Pacific Ocean
+Inan, Umran 	A-336-P 	ELF/VLF observation of whistler-mode waves, lightning discharge, and gamma-ray events from Palmer Station
+Johns, Bjorn 	G-296-M/S 	Collaborative research: Development of a power and communication system for remote autonomous GPS and seismic stations in Antarctica
+Johns, Bjorn 	T-295-M 	UNAVCO GPS survey support
+Kemerait, Robert 	G-078-M 	Dry Valley seismic project
+Kennicutt, Mahlon 	B-518-M 	Temporal variability in natural and anthropogenic disturbance of McMurdo Station
+Kim, Stacy 	B-174-M 	Development of a remotely operated vehicle for under-ice research in polar environments
+Kovac, John 	A-039-S 	Collaborative Research: BICEP2 and SPUD - A search for inflation with degree-scale polarimetry from the South Pole
+Kyle, Phillip 	G-081-M 	Mount Erebus Volcano Observatory II (MEVO II): Surveillance, models, impacts and outreach
+Lazzara, Matt 	O-283-M 	Collaborative research: Antarctic Automatic Weather Station Program (AWS), 2007-2010
+Lazzara, Matt 	O-202-M 	Antarctic Meteorological Research Center (AMRC)
+Lessard, Marc 	A-112-M 	Polar Experiment Network for Geospace Upper-atmosphere Investigations: PENGUIn
+Lessard, Marc 	A-106-M 	Collaberative Research: Polar Experiment Network for Geospace Upper-Atmosphere Investigations: PENGUIn - Advancing the Vision for Global Studies
+Lewis, Adam 	G-294-M 	Collaborative Research: Integrating geomorphological and paleoecological studies to reconstruct Neogene environments of the Transantarctic Mountains
+Martinson, Doug 	B-021-L 	Palmer Long Term Ecological Research (LTER): Looking back in time through marine ecosystem space, physical oceanography component
+Mende, Stephen 	A-104-S 	Antarctic auroral imaging
+Miller, Mary K 	Y-607-M 	Ice Stories: A Public Educational Resource for IPY
+Miller, Molly 	G-093-M 	Collaborative Research: Linking modern benthic communities and taphonomic processes to the stratigraphic record of Antarctic cores
+Morin, Paul 	T-434-M 	The Antarctic Geospatial Information Center: Collecting, creating, delivering and archiving for the community
+Nowacek, Douglas P 	B-249-L 	Collaborative research: The ecological role of a poorly studied Antarctic krill predator, the humpback whale (Megaptera novaeangliae)
+Nyblade, Andy 	G-055-M 	Collaborative Research: A broadband seismic experiment to image the lithosphere beneath the Gamburtsev Mountains, East Antarctica
+Parker, Timothy 	T-299-M 	IRIS/PASSCAL seismic support
+Pekar, Stephen 	G-049-M 	ANDRILL: Investigating Antarctica's role in Cenozoic global environmental change
+Priscu, John 	B-422-M 	The Role of Resource Legacy on Contemporary Linkages Between Biodiversity and Ecosystem Processes in a Cold Desert Ecosystem: The McMurdo Dry Valley LTER Program
+Pryke, Clement 	A-039-S 	Collaborative Research: BICEP2 and SPUD - A search for inflation with degree-scale polarimetry from the South Pole
+Seo, Eun-Suk 	A-137-M 	Cosmic Ray Energetics And Mass (CREAM)
+Sivjee, Gulamabas 	A-129-S 	Observation of upper-atmospheric energetics, dynamics, and long-term variations over South Pole Station
+Sletten, Ronald 	G-121-M 	Ground ice dynamics in hyperarid soils of the McMurdo Dry Valleys, Antarctica
+Smith, Craig 	B-212-L/N 	Collaborative research: Benthic faunal feeding dynamics on the Antarctic shelf and the effects of global climate change on bentho-pelagic coupling
+Sprintall, Janet 	O-260-L 	The Drake Passage high-density XBT/XCTD program
+Staudigel, Hubert 	G-439-M 	Collaborative research: Microbially mediated alteration of volcanic glass using McMurdo extreme environments as natural laboratories
+Steffen, Konrad 	I-077-E 	IPY: Stability of Larsen C Ice Shelf in a warming climate
+Steinberg, Deborah 	B-020-L 	Palmer Long Term Ecological Research (LTER): Looking back in time through marine ecosystem space, zooplankton component
+Stepp, BillExternal U.S. government site 	A-145-M 	NASA Long Duration Balloon (LDB) support program
+Sweeney, Colm 	O-214-N 	Processes driving spatial and temporal variability of surface pCO2 in the Drake Passage
+Szuberla, Curt 	T-396-M 	Operation and maintenance of a CTBT class infrasound array at Windless Bight
+Taylor, Kendrick 	I-477-M 	Investigation of climate, ice dynamics, and biology using a deep ice core from the West Antarctic Ice Sheet
+Taylor, Michael 	A-119-S 	Investigating wave-driven mesospheric dynamics over South Pole using an advanced mesospheric temperature mapper
+Virginia, Ross 	B-423-M 	Role of resource legacy on contemporary linkages between biodiversity and ecosystem processes in a cold desert ecosystem: The McMurdo Dry Valley LTER program
+Wall, Diana 	B-424-M 	Role of resource legacy on contemporary linkages between biodiversity and ecosystem processes in a cold desert ecosystem: The McMurdo Dry Valley LTER program
+Yuan, Xiaojun 	O-261-N 	Collaborative Research: Sampling the ocean - sea ice interaction in the Pacific center of the Antarctic Dipole

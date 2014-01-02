@@ -1,0 +1,74 @@
+Ackley, Stephen 	O-270-N 	SIMBA drift station (sea ice mass balance in the antarctic)
+Ainley, David 	B-031-M 	Adelie Penguin response to climate change at the individual, colony and metapopulation levels
+Albert, Mary 	I-155-M 	Norwegian-United States IPY Scientific Traverse: Climate variability and glaciology in East Antarctica
+Amsler, Charles 	B-022-P 	The chemical ecology of shallow water marine macroalgae and invertebrates on the Antarctic Peninsula
+Baranowski, Kim 	W-486-P 	Frozen field
+Bieber, John 	A-120-M 	Solar and heliospheric studies with antarctic cosmic ray observations
+Bindschadler, Robert 	C-407-M 	IPY: Collaborative Research: Ocean-Ice Sheet Interaction in the Amundsen Sea: The Keystone of West Antarctic Stability
+Blanchette, Bob 	B-038-M 	Studies of antarctic fungi: Adaptive stratigies for survival and protecting Antarctica's historic structures
+Butler, James 	O-257-S 	South Pole monitoring for climatic change
+Carlstrom, John 	A-379-S 	Cosmological Research with the 10-meter South Pole Telescope
+Carlstrom, John 	A-370-S 	Science Coordination Office for Astrophysical Research in Antarctica (SCOARA)
+Catania, Ginny 	I-159-M 	Grounding line forensics: The history of grounding line retreat in the Kamb Ice Stream outlet region
+Church, Sarah 	A-366-S 	Next generation CMB polarization measurements with the QUEST experiment on DASI
+Dalziel, Ian 	G-087-N 	Central Scotia Sea floor and the Drake Passage deep ocean current gateway
+Dempsey, John 	O-316-M 	Physics and mechanics of the breakup of warm antarctic sea ice: In-situ experiments and modeling
+Detrich, Bill 	B-037-L/P 	Protein folding and function at cold temperature: Co-evolution of the chaperonin CCT and tubulins from antarctic fishes
+Doran, Peter 	B-426-M 	Role of resource legacy on contemporary linkages between biodiversity and ecosystem processes in a cold desert ecosystem: The McMurdo Dry Valley LTER program
+Evenson, Paul 	A-333-S 	IceCube operations and maintenance
+Fountain, Andrew 	B-425-M 	Role of resource legacy on contemporary linkages between biodiversity and ecosystem processes in a cold desert ecosystem: The McMurdo Dry Valleys LTER program
+Fraser, Bill 	B-013-L/P 	Palmer Long Term Ecological Research (LTER): Climate migration, ecological response and teleconnections in an ice-dominated environment (Seabird component)
+Garrott, Robert 	B-009-M 	The demographic consequences of environmental variability and individual heterogeneity in life-history tactics of a long-lived Antarctic marine predator
+Gogineni, Prasad 	I-189-M 	Center for Remote Sensing of Ice Sheets (CReSIS) - Basler airborne radar survey
+Griffin, Ken 	T-927-M 	NASA/McMurdo Ground Station (MG1)
+Haines-Stiles, Geoff 	Y-328-E/M/N/S 	POLAR-PALOOZA
+Harwood, David 	G-091-M 	ANDRILL
+Harwood, David 	G-049-M 	ANDRILL: Investigating Antarctica's role in Cenozoic global environmental change
+Hernandez, Gonzalo 	A-110-M/S 	Austral high-latitude atmospheric dynamics
+Hofmann, David 	O-264-P 	Collection of atmospheric air for the NOAA/GMD worldwide flask-sampling network
+Hofmann, David 	O-257-S 	South Pole monitoring for climatic change
+Horning, Markus 	B-041-M 	Collaborative Research: Aging in Weddell Seals: Proximate mechanisms of age-related changes in adaptations to breath-hold hunting in an extreme environment.
+Inan, Umran 	A-327-N 	ELF/VLF observation in the southern Pacific Ocean
+Inan, Umran 	A-336-P 	ELF/VLF observation of whistler-mode waves, lightning discharge, and gamma-ray events from Palmer Station
+Johns, Bjorn 	T-295-M 	UNAVCO GPS survey support
+Kannen, Christopher 	W-488-M 	Parhelion pemmican pack-ice pancake: Antarctica compressed on canvas
+Karentz, Deneb 	B-301-M 	A graduate training program in Antarctica: Integrative biology and adaptation of antarctic marine organisms
+Kemerait, Robert 	G-078-M 	Dry Valley seismic project
+Kennicutt, Mahlon 	B-518-M 	Temporal variability in natural and anthropogenic disturbance of McMurdo Station
+Kim, Stacy 	B-174-M 	Development of a remotely operated vehicle for under-ice research in polar environments
+Kyle, Phillip 	G-081-M 	Mount Erebus Volcano Observatory II (MEVO II): Surveillance, models, impacts and outreach
+LaBelle, James 	A-128-S 	Direction-finding measurements of LF/MF/HF auroral radio emissions at South Pole
+Lange, Andrew 	A-033-S 	BICEP1 third season continuation - A search for inflation with degree-scale polarimetry from the South Pole
+Linder, Chris 	Y-603-M 	IPY: Live from the Poles: A multimedia educational experience
+Lyons, W. Berry 	B-420-M 	Role of resource legacy on contemporary linkages between biodiversity and ecosystem processes in a cold desert ecosystem: The McMurdo Dry Valleys LTER program
+Manahan, Donal 	B-301-M 	A graduate training program in Antarctica: Integrative biology and adaptation of antarctic marine organisms
+Marsh, Bruce 	G-056-M 	3-D dynamics of the Ferrar Magmatic Mush Column, Dry Valleys
+Martinson, Doug 	B-021-L 	Palmer Long Term Ecological Research (LTER): Climate migration, ecological response and teleconnections in an ice-dominated environment
+Mayewski, Paul 	I-153-M/S 	A Science Management Office for the United States Component of the International Trans Antarctic Expedition (US ITASE SMO): A collaborative program of research from Taylor Dome to South Pole
+Mellish, Jo-Ann 	B-041-M 	Collaborative Research: Aging in Weddell Seals: Proximate mechanisms of age-related changes in adaptations to breath-hold hunting in an extreme environment.
+Mende, Stephen 	A-104-S 	Antarctic auroral imaging
+Mitchell, John 	A-140-M 	Balloon-borne Experiment with a Superconducting Spectrometer (BESS)
+Moran, Amy 	B-004-M 	Collaborative Research: Effects of oxygen and temperature on egg mass function of Southern Ocean marine invertebrates
+Murray, Alison 	B-229-P 	Bacterioplankton genomic adaptations to Antarctic winter
+Nyblade, Andy 	G-055-M 	Collaborative Research: A broadband seismic experiment to image the lithosphere beneath the Gamburtsev Mountains, East Antarctica
+Oftedal, Olav 	B-024-M 	Capital expenditure, lactation energetics, and the importance of foraging to Weddell seals and their pups
+Prentice, Michael 	I-133-M 	Fluctuations of the West Antarctic Ice-Sheet in relation to lake history in Taylor Valley since the Last Glacial Maximum
+Priscu, John 	B-234-M 	Collaborative Research: IPY- plankton dynamics in the McMurdo Dry Valley Lakes during the transition to polar night
+Pryke, Clement 	A-379-S 	Cosmological Research with the 10-meter South Pole Telescope
+Ross, Robin 	B-028-L/P 	Palmer Long Term Ecological Research (LTER): Climate migration, ecological response and teleconnections in an ice-dominated environment (Prey component)
+Seo, Eun-Suk 	A-137-M 	Cosmic Ray Energetics And Mass (CREAM)
+Sivjee, Gulamabas 	A-129-S 	Observation of upper-atmospheric energetics, dynamics, and long-term variations over South Pole Station
+Sletten, Ronald 	G-121-M 	Ground ice dynamics in hyperarid soils of the McMurdo Dry Valleys, Antarctica
+Smith, Raymond 	B-032-L 	Palmer Long Term Ecological Research (LTER): Climate migration, ecological response and teleconnections in an ice-dominated environment (Bio-optical component)
+Sprintall, Janet 	O-260-L 	The Drake Passage high-density XBT/XCTD program
+Stearns, Charles 	O-202-M/P 	Antarctic Meteorological Research Center (AMRC)
+Stepp, Bill 	A-145-M 	NASA Long Duration Balloon (LDB) support program
+Stock, Joann 	G-071-N 	Collection of marine geophysical data on transits of the Nathaniel B. Palmer
+Szuberla, Curt 	T-396-M 	Operation and maintenance of a CTBT class infrasound array at Windless Bight
+Taylor, Kendrick 	I-477-M 	Investigation of climate, ice dynamics, and biology using a deep ice core from the West Antarctic Ice Sheet
+Thompson, Linda 	A-138-M 	Wallops Flight Facility component of the CREAM balloon payload
+Vernet, Maria 	B-016-L 	Palmer Long Term Ecological Research (LTER): Climate migration, ecological response and teleconnections in an ice-dominated environment (Phytoplankton component)
+Virginia, Ross 	B-423-M 	Role of resource legacy on contemporary linkages between biodiversity and ecosystem processes in a cold desert ecosystem: The McMurdo Dry Valley LTER program
+Wall, Diana 	B-424-M 	Role of resource legacy on contemporary linkages between biodiversity and ecosystem processes in a cold desert ecosystem: The McMurdo Dry Valley LTER program
+Wefel, John 	A-143-M 	Advanced Thin Ionization Calorimeter (ATIC)
+Zesta, Eftyhia 	A-357-M/P 	South American Meridional B-Field Array (SAMBA): An American-Chilean chain

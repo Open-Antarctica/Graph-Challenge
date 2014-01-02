@@ -1,0 +1,131 @@
+Adriani	Alberto	Study of polar stratospheric clouds by LIDAR	AO-107-O
+Ainley	David	Geographic structure of Adelie penguin populations: Demography of population expansion	BO-031-O
+Albert	Mary	U.S. ITASE: Snow and firn microstructure and transport properties	IU-155-O
+Amsler	Charles	The chemical ecology of shallow-water marine macroalgae and invertebrates on the Antarctic peninsula	BO-022-L/P
+Anandakrishnan	Sridhar	Characterizing the onset of ice stream flow: A ground geophysical program	IO-205-O
+Arcone	Steven	U.S. ITASE: High resolution radar profiling of the snow and ice stratigraphy beneath the ITASE traverses	IU-311-O
+Avallone	Linnea	In situ measurements of halogen oxides in the troposphere	AO-132-O
+Avery	Susan	Dynamics of the Antarctic MLT (mesosphere-lower-thermosphere) region using ground-based radar and TIMED instrumentation	AO-284-O
+Bales	Roger	U.S. ITASE: Hydrogen peroxide, formaldehyde, and sub-annual snow accumulation in West Antarctica	IU-158-O
+Bao	Huiming	Multiple isotope analyses of soil sulfate and nitrate in the Antarctic Dry Valleys	GO-051-O
+Bart	Philip	CAREER: Relative frequency and phase of extreme expansions of the Antarctic ice sheets during the late Neogene	GO-154-O
+Berger	Glenn	Development of a luminescence dating capability for antarctic glaciomarine sediments: Tests of signal zeroing at the Antarctic Peninsula	GO-092-O
+Bieber	John	Solar and heliospheric studies with antarctic cosmic ray observations	AO-120-M/S
+Blanchette	Robert	Investigation on deterioration in the Historic Huts of the Ross Sea region of Antarctica	BO-038-O
+Bowser	Samuel	Seasonal dynamics of giant agglutinated foraminifera	BO-043-O
+Butler	Rhett	EAR Global Seismograph Station: IRIS & USGS/ASL	GO-090-P/S
+Cande	Steve	01-26340
+Improved Cenozoic plate reconstructions of the circum-Antarctic region	GO-071-O
+Carlstrom	John	DASI (Degree Angular Scale Interferometer)	AO-373-O
+Castellini	Michael	Effects of foraging on the lipid biochemistry of freely diving Weddell seals	BO-199-O
+Chereskin	Teresa	Shipboard acoustic doppler current profiling on R/V Nathaniel B. Palmer and R/V Laurence M. Gould	OO-317-L
+Connell	Laurie	Yeasts in the Antarctic Dry Valleys: Biological role, distribution, and evolution	BO-019-O
+Conway	Howard	Western Divide WAISCORES site selection	IO-209-O
+Cuffey	Kurt	Dynamics and climatic response of the Taylor Glacier system	IO-161-O
+Dalziel	Ian	A GPS network to determine crustal motions in the bedrock of the West Antarctic Ice Sheet: Phase I, Installation	GO-087-M
+Davis	Randall	Hunting behavior and energetics of free-ranging Weddell seals	BO-017-O
+DeVries	Arthur	Antifreeze proteins in antarctic fishes: Ecological and organismal physiology, protein structure-function and mechanism, genetics, and evolution	BO-005-M
+Deshler	Terry	In situ measurements of polar stratospheric clouds, condensation nuclei, and ozone during the austral winter and spring	AO-131-O
+Detrich, III	H. William	Structure, function and expression of tubulins, globins, and microtubule-dependent motors from cold-adapted antarctic fishes	BO-037-L/P
+Doran	Peter	McMurdo Dry Valleys LTER: The role of natural legacy on ecosystem structure and function in a polar desert	BM-042-D
+Ducklow	Hugh	Seabird component of LTER (Long Term Environmental Research): Climate migration, ecological response and teleconnections in an ice-dominated environment	BP-013-L/P
+Ducklow	Hugh	Phytoplankton ecology component of LTER (Long Term Environmental Research): Climate migration, ecological response and teleconnections in an ice-dominated environment	BP-016-L/P
+Ducklow	Hugh	Zooplankton component of LTER (Long Term Environmental Research): Climate migration, ecological response and teleconnections in an ice-dominated environment	BP-028-L/P
+Ducklow	Hugh	Bio-optical component of LTER (Long Term Environmental Research): Climate migration, ecological response and teleconnections in an ice-dominated environment	BP-032-L/P
+Ducklow	Hugh	LTER (Long Term Environmental Research): Climate migration, ecological response and teleconnections in an ice-dominated environment	BP-045-L/P
+Dye	Timothy	Culture emergence and health in Antarctica	BO-027-O
+Eicken	Hajo	Measurements and improved parameterizations of the thermal conductivity and heat flow through first-year sea ice	OO-253-O
+Ejiri	Masaki	US-Japan	All-Sky Imager at the South Pole	AO-117-O
+Elliot	David	Ferrar basaltic tuff-breccias formed by direct eruption: Evaluating an hypothesis	GO-290-O
+Emslie	Steven	Abandoned penguin colonies in Antarctica	BO-034-E
+Engebretson	Mark	Conjugate and high time resolution studies of ULF waves and magnetospheric dynamics using ground based induction magnetometers at four high latitude manned sites	AO-102-M/S
+Firing	Eric	Shipboard acoustic doppler current profiling on RVIB Nathaniel B. Palmer and RV Laurence M. Gould	OO-315-N
+Fleming	Thomas	Emplacement of the ferrar mafic igneous province: A pilot study of intrusive architecture and flow directions in Southern Victoria Land	GO-062-O
+Fountain	Andrew	McMurdo Dry Valleys LTER: The role of natural legacy on ecosystem structure and function in a polar desert.	BM-042-F
+Fraser	William	Monitoring the effects of tourism and environmental variability on Adelie penguins at Palmer Station, Antarctica	BO-198-P
+Fraser-Smith	Antony	The operation of an ELF/VLF radiometer at Arrival Heights	AO-100-O
+Gaisser	Thomas	South Pole Air Shower Experiment - 2 (SPASE-2)	AO-109-O
+Garrott	Robert	Patterns and processes: Dynamics of the Erebus Bay Weddell seal population	BO-009-O
+Gordon	Arnold	ANSLOPE: Cross slope exchanges at the Antarctic slope front	OO-215-O
+Hall	Brenda	Millennial-scale fluctuations of Dry Valleys lakes: A test of regional climate variability and the interhemispheric (a)synchrony of climate change.	IO-196-M
+Hall	Brenda	AMS Radiocarbon Chronology of Glacier Fluctuations in South Shetland Islands during Glacial/Interglacial Hemicycle: Implications Antarctica's Role in Global Climate Change	IO-194-E
+Hallet	Bernard	Stability of land surfaces in the Dry Valleys: Insights based on the dynamics of sub-surface ice and sand-wedge polygons	GO-053-O
+Hamilton	Gordon	U.S. ITASE: Mass balance and accumulation rate along US ITASE routes	IU-178-O
+Hansen	Anthony	Measurement of combustion effluent carbonaceous aerosols in the McMurdo Dry Valleys, Antarctica	OO-314-O
+Harvey	Ralph	The Antarctic search for meteorites (ANSMET)	GO-058-O
+Hernandez	Gonzalo	High-latitude Antarctic neutral mesospheric and thermospheric dynamics and thermodynamics	AO-110-M/S
+Hofmann	Gretchen	Evolutionary loss of the heat shock response in antarctic fishes	BO-134-O
+Hofmann	Dave	South Pole monitoring for climatic change -- U.S. Department of Commerce NOAA climate monitoring and diagnostic laboratory	OO-257-O
+Hofmann	Dave	Collection of atmospheric air for the NOAA/CMDL worldwide flask sampling network	OO-264-O
+Holzapfel	William	ACBAR (Arcminute Cosmology Bolometer Array)	AO-378-O
+Hunt	George	02-34570 (SGER)	Food web structure across a large-scale ocean productivity gradient: Top predator assemblages in the southern Indian Ocean	BO-025-E
+Inan	Umran	ELF/VLF waves at the South Pole	AO-106-S
+Inan	Umran	A VLF beacon transmitter at South Pole (2001-2004)	AO-108-O
+Inan	Umran	Global thunderstorm activity and its effects on the radiation belts and the lower ionosphere	AO-306-P
+Jacobel	Robert	U.S. ITASE: Radar studies of internal stratigraphy and bedrock topography along the traverse	IU-133-O
+Jefferies	Stuart	Mapping the sound speed structure of the sun's atmosphere	AO-115-O
+Jeffrey	Wade		Latitudinal Effects of UVR on bacterioplankton: BRIDE OF TABASCO science of opportunity cruise	BO-200-O
+Johns	Bjorn	EAR-University NAVSTAR Consortium (UNAVCO) GPS survey support	GO-295-O
+Kanatous	Shane	Ontogeny of aerobic capacity, lipid metabolism, and elevated myoglobin concentrations in the skeletal muscles of Weddell seals	BO-018-O
+Keeling	Ralph	95-Okeel	A study of atmospheric oxygen variability in relation to annual to decadal variations in terrestrial and marine ecosystems	OO-204-O
+Kelley	Scott	(none)	terra incognita: anvers island and surrounding area	WO-221-O
+Kemerait	Robert	AFTAC Dry Valley seismic project (Air Force Technical Applications Center)	GO-078-O
+Kim	Stacy	Community dynamics in a polar ecosystem: Benthic recovery from organic enrichment in the Antarctic	BO-010-O
+Kooyman	Gerald	02-24957 (SGER)	Effects of B15 on breeding success of the Cape Crozier emperor penguin colony	BO-197-O
+Kyle	Philip	98-14921
+01-16577 (MRI)	Mount Erebus Volcano Observatory: Gas emissions and seismic studies
+Development of integrated seismic, geodetic and volcanic gas surveillance instrumentation for volcanic research	GO-081-O
+LaBelle	James	A versatile electromagnetic waveform receiver for South Pole Station	AO-128-O
+Lancaster	Nicholas	Aeolian processes in the McMurdo Dry Valleys, Antarctica	GO-183-O
+Lanzerotti	Louis		A continuation of magnetometer data acquisition at McMurdo and South Pole Stations	AO-101-M/S
+Lessard	Marc	Measurement and analysis of extremely low frequency (ELF) waves at South Pole Station	AO-136-O
+Luyendyk	Bruce	Antarctic cretaceous-cenozoic climate, glaciation, and tectonics: Site surveys for drilling from the edge of the Ross Ice Shelf	GO-152-O
+Lyons	W. Berry	McMurdo Dry Valleys LTER: The role of natural legacy on ecosystem structure and function in a polar desert.	BM-042-L
+Lyons	W. Berry	Chemical weathering in Taylor Valley streams: Sources, mechanisms and global implications	GO-074-O
+Manahan	Donal	Energetics of protein metabolism during development of Antarctic echinoderms	BO-006-O
+Marchant	David	Response of the East Antarctic Ice Sheet to middle miocene global change	GO-054-A
+Marsh	Bruce	The ferrar magmatic mush column system, Dry Valleys, Antarctica	GO-056-O
+Martinson	Douglas	Long Term Environmental Research (LTER): Climate migration, ecological response and teleconnections in an ice-dominated environment	BP-021-L
+Mayewski	Paul	U.S. ITASE: Science management for the United States component of the International Trans Antarctic Expedition	IU-153-A
+Mayewski	Paul	U.S. ITASE: Glaciochemistry	IU-153-B
+McConnell	Joseph	U.S. ITASE: Deposition of the HFC degradation product trifluoroacetate in antarctic snow and ice	IU-323-O
+McKnight	Diane	McMurdo Dry Valleys LTER: The role of natural legacy on ecosystem structure and function in a polar desert.	BM-042-M
+Meese	Debra	U.S. ITASE: The physical properties of the U.S. ITASE ice cores	IU-185-O
+Mende	Steven	Antarctic Auroral Imaging	AO-104-O
+Morse	Robert	AMANDA 2000 (Antarctic Muon And Neutrino Detector Array)	AA-130-O
+Mullins	Jerry	Antarctic mapping, geodesy, geospatial data, satellite image mapping and Antarctic Resource Center management	GO-052-M
+Murray	Alison	Gene expression in extreme environments: Extending microarray technology to understand life at its limits	BO-179-O
+Myers	Joan	(none)	A photographic overview of the ongoing human exploration and occupation of Antarctica, the most hostile continent on our planet	WO-219-O
+Novak	Giles	Mapping galactic magnetic fields with SPARO (Submillimeter Polarimeter for Antarctic Remote Observations)	AO-376-O
+Palinkas	Lawrence	Prevention of environment-induced decrements in mood and cognitive performance	BO-321-M/S
+Pringle	Laurence	(none)	A nonfiction, illustrated children’s book about the Weddell seal	WO-218-O
+Priscu	John	McMurdo Dry Valleys LTER: The role of natural legacy on ecosystem structure and function in a polar desert.	BM-042-P
+Raymond	James	Function and chemical nature of ice-active substances associated with sea ice diatoms	BO-001-O
+Renne	Paul	Calibration of cosmogenic argon production rates in Antarctica	GO-064-O
+Rosenberg	Theodore	Riometry in Antarctica and conjugate region	AO-111-M/S
+Rosenberg	Theodore	Polar Experiment Network for Geophysical Upper-Atmospheric Investigations	AO-112-O
+Ruhl	John	BOOMERanG (Balloon Observations of Millimetric Extragalactic Radiation and Geophysics): A balloon-borne measurement of polarization in the cosmic microwave background	AB-148-O
+Sanderson	Colin		University of Miami/Dept of Energy-Environmental Measurements Lab, Remote Atmospheric Measurements Program (RAMP)	OO-275-O
+Scambos	Theodore	Characteristics of snow megadunes and their potential effects on ice core interpretation	IO-186-O
+Sidell	Bruce	Cold body temperature as an evolutionary shaping force in the physiology of antarctic fishes	BO-036-L/P
+Sims	Kenneth	U-Series (uranium-series) isotopic constraints on the rates of magma genesis evolution and degassing at Mt. Erebus, Antarctica	GO-085-O
+Sivjee	Gulamabas	Effects of enhanced solar disturbances during the 2000-2002 solar-max period on the Antarctic mesosphere-lower-thermosphere (MLT) and F regions composition, thermodynamics and dynamics	AO-129-O
+Smith	Walker	Interannual Variability in the Antarctic Ross Sea (IVARS): Nutrient fields and seasonal productivity II	BO-047-O
+Sprintall	Janet	Drake Passage XBT Program	OO-260-O
+Stacey	Gordon	Wide-field imaging spectroscopy in the submillimeter: Deploying SPIFI on AST/RO	AO-377-O
+Stark	Antony	AST/RO (Antarctic Submillimeter Telescope and Remote Observatory)	AO-371-O
+Stearns	Charles	Antarctic Meteorological Research Center (AMRC)	OO-202-O
+Stearns	Charles	Antarctic automatic weather station program: 2001-2004	OO-283-M
+Steig	Eric	U.S. ITASE: Stable isotope studies at West Antarctic ITASE sites	IU-193-O
+Stepp	William	NASA	Long duration balloon program (LDB)	AB-145-O
+Svarney	Thomas	(none)	Frigid Beauty: Weather in Antarctica	WO-220-O
+Takahashi	Taro	Mesoscale, seasonal, and inter-annual variability of surface water carbon dioxide in the Drake Passage	OO-214-O
+Taylor	Frederick	The Scotia Arc GPS Project: Focus on the Antarctic Peninsula and South Shetland Islands	GO-080-L
+Trivelpiece	Wayne	Foraging behavior and demography of pygoscelis penguins	BO-040-O
+Virginia	Ross	McMurdo Dry Valleys LTER: The role of natural legacy on ecosystem structure and function in a polar desert	BM-042-V
+Walden	Von		Work at Dome C through NASA and the Italian/French program	OO-213-M
+Wall	Diana	McMurdo Dry Valleys LTER: The role of natural legacy on ecosystem structure and function in a polar desert	BM-042-W
+Warren	Stephen	Solar radiation on the East Antarctic Plateau	OO-201-O
+Wefel	John	ATIC	ATIC Long Duration Balloon Flight (Advanced Thin Ionization Calorimeter)	AB-143-O
+Wiens	Douglas	A broadband seismic experiment to investigate deep continental structure across the East-West Antarctic boundary	GO-089-M
+Wilhelm	Steven	Viral dynamics and the Southern Ocean iron cycle	BO-229-E

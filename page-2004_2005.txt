@@ -1,0 +1,126 @@
+Ainley, David	B-031-M	Geographic structure of Adélie penguin populations: Demography of population expansion
+Anandakrishnan, Sridhar	I-205-M	Tidal modulation of ice stream flow
+Anderson, John	G-083-N	SHALDRIL: A demonstration drilling cruise to the James Ross Basin
+Avallone, Linnea	O-251-M	In situ measurements of halogen oxides in the Troposphere
+Besson, Dave	A-123-S	RICE - Radio Ice Cherenkov Experiment
+Bieber, John	A-120-M/S	Solar and heliospheric studies with antarctic cosmic rays
+Blake, James	B-292-E	Origin and evolution of antarctic and deep-sea macroinfauna: Systematics and reproductive patterns of polychaetes
+Blanchette, Robert	B-038-E/M	Investigations on deterioration in the historic huts of Antarctica
+Borns, Harold	I-187-M	West antarctic ice sheet stability
+Bowser, Samuel	B-015-M	Remotely operable micro environmental observatory for antarctic marine biology research
+Bristow, William	A-369-S	South Pole SuperDARN (Super Dual Auroral Radar Network)
+Butler, Rhett	G-090-P/S	Global seismograph station at Palmer and South Pole stations
+Caldwell, Douglas	A-103-S	A search for extrasolar planets from the South Pole
+Carlstrom, John	A-379-S	South Pole observations to test cosmological models
+Castellini, Michael	B-199-M	Effects of foraging on the lipid biochemistry of freely diving Weddell seals
+Chereskin, Teresa	O-317-L	Shipboard Acoustic Doppler Current Profiling (ADCP) on R/V Laurence M. Gould
+Chin, Yu-Ping	B-300-M	Biogeochemistry of dissolved organic material in Pony Lake, Ross Island
+Church, Sarah	A-366-S	Next generation CMB polarization measurements with the QUEST experiment on DASI
+Cole-Dai	Jihong	I-355-S	Investigating atmospheric chemistry through oxygen and sulfur isotopes in volcanic sulfate from South Pole ice cores
+Conrad, Pamela	B-330-M	SPISE3: A non-contact instrument suite for rapid detection of chemical biosignatures
+Day, Thomas	B-003-P	Response of terrestrial ecosystems along the Antarctic Peninsula to a changing climate
+DeVries, Arthur	B-005-M	Antifreeze proteins in antarctic fishes: Integrated studies of freezing environments and organismal freezing avoidance, protein-structure and mechanism, genes and evolution
+Dempsey, John	O-316-M	Physics and mechanics of the breakup of warm antarctic sea ice: In-situ experiments and modeling
+Deshler, Terry	A-131-M	Measurements addressing quantitative ozone loss, polar stratospheric cloud nucleation, and large polar stratospheric particles during austral winter and spring
+Doran, Peter	B-426-M	McMurdo Dry Valleys LTER (Long Term Ecological Research)
+Ducklow, Hugh	B-045-L/P	Palmer Long Term Ecological Research Project (PLTER): Climate migration, ecological response and teleconnections in an ice-dominated environment
+Dye, Timothy	B-027-M	Culture and health in Antarctica: Year 3
+Ejiri, Masaki	US/Japan agreement	A-117-S	All-sky imager at South Pole
+Emerson, Steven	O-271-L	Tracers of biological productivity and gas exchange
+Emslie, Steven	B-034-M	Occupation history and diet of Adélie penguins in the Ross Sea region
+Engebretson, Mark	A-102-M/S	Conjugate studies of ULF waves and magnetospheric dynamics using ground-based induction magnetometers at four high-latitude manned sites
+Firing, Eric	O-315-N	Shipboard Acoustic Doppler Current Profiling (ADCP) on R/V Nathaniel B. Palmer
+Fountain, Andrew	B-425-M	McMurdo Dry Valleys LTER (Long Term Ecological Research)
+Fraser, William	B-013-L/P	Long-Term Ecological Research (LTER) on the antarctic marine ecosystem: Climate migration, ecosystem response and teleconnections in an ice-dominated environment (seabird component)
+Fraser, William	B-198-P	Monitoring the effects of tourism and environmental variability on Adélie penguins at Palmer Station
+Fraser-Smith	Antony	A-100-M	The operation of an ELF/VLF radiometer at Arrival Heights
+Fricker, Helen	I-277-E	Monitoring an active rift system at the front of Amery Ice Shelf, East Antarctica
+Garrott, Robert	B-009-M	Patterns and processes: Dynamics of the Erebus Bay Weddell seal population
+Gast, Rebecca	B-207-N	Comparative and quantitative studies of protistan molecular ecology and physiology in coastal antarctic waters
+Goes, Joaquim	B-206-N	Ultraviolet radiation induced changes in the patterns of production and biochemical composition of antarctic marine phytoplankton
+Gooseff, Michael	B-268-M	Hydrologic controls over biogeochemistry and microbial community structure and function across terrestrial/aquatic interfaces in a polar desert
+Gordon, Arnold	O-215-N	ANSLOPE: Cross slope exchanges at the antarctic slope front
+Halanych, Kenneth	B-281-L	Relevance of planktonic larval dispersal to endemism and biogeography of antarctic benthic invertebrates
+Hallet, Bernard	I-139-M	Mechanics of dry-land calving of ice cliffs
+Halzen, Francis	A-333-S	IceCube
+Hansen, Anthony	O-314-M	Solar / wind powered instrumentation module development for polar environmental research
+Harvey, Ralph	G-058-M	The Antarctic Search for Meteorites (ANSMET)
+Hernandez, Gonzalo	A-110-M/S	Austral high-latitude atmospheric dynamics
+Hildebrand, John	B-239-L	Mysticete whale acoustic census in the GLOBEC west antarctic project area
+Hofmann, David	O-257-S	South Pole monitoring for climatic change: US Department of Commerce NOAA climate monitoring and diagnostic laboratory
+Hofmann, David	O-264-P	Collection of atmospheric air for the NOAA/CMDL worldwide flask sampling network
+Hollibaugh, James	B-114-L/P	Distribution and ecology of ammonia oxidizing bacteria in the Palmer LTER study area
+Holt, John	I-141-M	Airborne Geophysical survey of the Amundsen Sea Embayment, Antarctica (AGASEA)
+Holzapfel, William	A-378-S	High resolution observations of the CMB with ACBAR
+Inan, Umran	A-306-P	Global thunderstorm activity and its effects on the radiation belts and the lower Ionosphere
+Inan, Umran	A-108-S	A VLF beacon transmitter at South Pole (2001-2004)
+Jeffrey, Wade	B-200-N	Interactive effects of UV and vertical mixing on phytoplankton and bacterial productivity of Ross Sea Phaeocystis bloom
+Johns, Bjorn	G-295-M	UNAVCO Geodetic GPS Support
+Keeling, Ralph	O-204-P/S	A study of atmospheric oxygen variability in relation to annual to decadal variations in terrestrial and marine ecosystems
+Kemerait, Robert	G-078-M	Dry Valley seismic project
+Kennicutt, Mahlon	B-518-M	Temporal variability in natural and anthropogenic disturbance of McMurdo Station
+Kieber, David	B-266-N	Impact of solar radiation and nutrients on biogeochemical cycling of DMSP and DMS in the Ross Sea
+Kiene, Ronald	B-002-N	Impact of solar radiation and nutrients on biogeochemical cycling of DMSP and DMS in the Ross Sea
+Kim, Stacy	B-010-M	Community dynamics in a polar ecosystem: Benthic recovery from organic enrichment in the Antarctic
+Kremer, Patricia	B-307-L	Salpa thompsoni in the Southern Ocean: Bioenergetics, population dynamics and biogeochemical impact
+Kreutz, Karl	I-191-M	Dry Valleys Late Holocene climate variability
+Kyle, Philip	G-081-M	Mount Erebus Volcano Observatory and Laboratory (MEVOL)
+Lange, Andrew	A-033-S	Background Imaging Of Cosmic Extragalactic Polarization (BICEP)
+Lee, Richard	B-256-P	Physiological and molecular mechanisms of stress tolerance in a polar insect
+Lessard, Marc	A-136-S	A proposal for the measurement and analysis of extremely low frequency waves at South Pole Station
+Lessard, Marc	A-362-S	Development of an Autonomous Real-time Remote Observatory (ARRO)
+Lyons, W. Berry	B-259-M	Soil biodiversity and response to climate change: A regional comparison of Cape Hallett and Taylor Valley
+Lyons, W. Berry	B-420-M	McMurdo Dry Valleys LTER (Long Term Ecological Research)
+MacAyeal, Douglas	I-190-M	Collaborative research of Earth's largest icebergs
+Manahan, Donal	B-006-M	Energetics of protein metabolism during development of antarctic echinoderms
+Marchant, David	G-054-M	Age, origin, and climatic significance of buried ice in the western Dry Valleys
+Marsh, Adam	B-029-M	CAREER: Genomic networks for cold-adaptation in embryos of polar marine invertebrates
+Marsh, Bruce	G-056-M	Magmatism in the Dry Valleys: A workshop
+Martinson, Douglas	B-021-L	Palmer Long Term Ecological Research Project (PLTER): Climate migration, ecological response and teleconnections in an ice-dominated environment
+McKnight, Diane	B-421-M	McMurdo Dry Valleys LTER (Long Term Ecological Research)
+Mende, Stephen	A-104-S	Dayside auroral imaging at South Pole
+Mitchell, John	A-140-M	Balloon-borne Experiment with a Superconducting Spectrometer (BESS)
+Morse, Robert	A-130-S	AMANDA 2004 (Antarctic Muon and Neutrino Detector Array)
+Mullins, Jerry	G-052-M/P/S	Geodesy and geospatial data program
+Murcray, Frank	A-255-M/S	Infrared measurements of atmospheric composition over Antarctica
+Naveen, Ron	B-086-E	Long-term data collection at select Antarctic Peninsula visitor sites
+Neale, Patrick	B-203-N	Interactive effects of UV and vertical mixing on phytoplankton and bacterioplankton in the Ross Sea
+Palinkas, Lawrence	B-321-M/S	Prevention of environment-induced decrements in mood and cognitive performance
+Palo, Scott	A-284-S	Dynamics of the antarctic MLT region using ground-based radar and TIMED instrumentation
+Parks, George	A-144-E	Balloon observations of MeV electron precipitation
+Peterson, Jeffrey	A-375-S	PAST: The Primeval Structure Telescope
+Pitman, Robert	B-289-M	Genetic and photogrammetric investigations of three ecotypes of Killer whales in the southern Ross Sea
+Ponganis, Paul	B-197-M	Diving physiology and behavior of Emperor penguins
+Priscu, John	B-195-M	Microbial diversity and function in the permanently ice-covered lakes of the Dry Valleys
+Priscu, John	B-422-M	McMurdo Dry Valleys LTER (Long Term Ecological Research)
+Putkonen, Jaakko	G-076-M	Stability of landscapes and ice sheets in Dry Valleys: A systematic study of exposure ages of soils and surface deposits
+Ross-Quetin	Robin	B-028-L/P	Palmer Long Term Ecological Research Project (PLTER): Climate migration, ecological response and teleconnections in an ice-dominated environment
+Sanderson, Colin	O-275-P/S	Remote Atmospheric Measurements Program (RAMP) of the University of Miami / U.S. Department of Energy's Environmental Measurements Lab
+Seo, Eun-Suk	A-137-M	Cosmic Ray Energetics And Mass (CREAM)
+Sidell, Bruce	B-036-L/P	Cold body temperature as an evolutionary shaping force in the physiology of antarctic fishes
+Sivjee, Gulamabas	A-129-S	The antarctic investigations of upper atmospheric disturbances over the South Pole Station
+Smith, Raymond	B-032-L/P	Palmer Long Term Ecological Research Project (PLTER): Climate migration, ecological response and teleconnections in an ice-dominated environment
+Smith, Walker	B-047-M	Interannual Variability in the Antarctic-Ross Sea (IVARS): Nutrients and seasonal production
+Sprintall, Janet	O-260-L	The Drake Passage high density XBT / XCTD program
+Stacey, Gordon	A-377-S	Wide-field imaging spectroscopy in the submillimeter: Deploying SPIFI on AST/RO
+Stark, Antony	A-371-S	Continued operation of the Antarctic Submillimeter Telescope and Remote Observatory (AST/RO)
+Stearns, Charles	O-202-M/P/S	Antarctic Meteorological Research Center 2002-2005 (AMRC)
+Stearns, Charles	O-283-M/P/S	Antarctic Automatic Weather Station (AWS) program 2004-2006
+Stepp, Bill	A-145-M	Long Duration Balloon (LDB) program
+Stock, Joann	G-071-N	Collection of marine geophysical data on transits of the R/V Nathaniel B. Palmer
+Stone, John	I-175-M/S	Late Quaternary history of Reedy Glacier
+Takahashi, Taro	O-214-L	Processes driving spatial and temporal variability of surface PCO2 in the Drake Passage
+Thiele, Deborah	International Whaling Commission	B-280-N	International Whaling Commission Southern Ocean Collaboration Program: Cetacean ecology, acoustic detection and sea ice habitat
+Trivelpiece, Wayne	B-040-E	Foraging behavior and demography of Pygoscelis penguins
+Tulaczyk, Slawek	I-345-M	Is Kamb Ice Stream restarting? Glaciological investigations of the bulge-trunk transition on Kamb Ice Stream, West Antarctica
+Uhle, Maria	B-011-M	Biogeochemistry of Victoria Land coastal ponds: Role in terrestrial ecosystem organic carbon dynamics and structure
+Vernet, Maria	B-016-L/P	Palmer Long Term Ecological Research Project (PLTER): Climate migration, ecological response and teleconnections in an ice-dominated environment
+Virginia, Ross	B-423-M	McMurdo Dry Valleys LTER (Long Term Ecological Research)
+Wall, Diana	B-424-M	McMurdo Dry Valleys LTER (Long Term Ecological Research)
+Ward, Bess	B-310-M	What limits denitrification and bacterial growth in Lake Bonney, Taylor Valley?
+Warren, Stephen	O-201-M	Solar radiation on the East Antarctic Plateau
+Weatherwax, Allan	A-111-M/S	Studies of the polar ionosphere and magnetosphere from measurements in Antarctica and conjugate regions
+Weatherwax, Allan	A-112-M	Polar Experiment Network for Geospace Upper-atmosphere Investigations (PENGUIN): A new vision for global studies
+Wilcock, William	G-135-E	High-resolution seismic tomography and earthquake monitoring at Deception Island volcano
+Wilson, Terry	G-079-M	Transantarctic Mountains deformation network: GPS measurements of neotectonic motion in the antarctic interior
+Zesta, Eftyhia	A-357-P	Extending the South American Meridional B-field Array (SAMBA) to auroral latitudes in Antarctica
